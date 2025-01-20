@@ -16,7 +16,7 @@ ___
 We release a dataset of 204 short texts containing a 4-term analogy, where explicit terms are tagged and implicit terms are suggested by annotators.
 
 The data and inter-annotator-agreement test can be found [here](./data).
-### Task
+### Task & Experiments
 ___
 
 We test the ability of Large Language Models to extract explicit terms of a metaphoric analogy, and generate relevant implicit terms.
@@ -35,14 +35,23 @@ terms
 The structured metaphoric analogy :
 values of the 4 frames **T1, T2, S1 and S2**.
 
+
+- **Prompt used in the experiments**:
+ 
+  <img width="200" src="img/prompt.png" /> 
+ 
 The scripts and output of our experiments can be found [here](./experiments).
 
 ### Evaluation
 ___
 
 - [**Explicit terms**](./evaluation/explicit_terms-evaluation) : we evaluate the correctness of the extracted explicit terms using an automatic metric of lemmatized head noun match between the gold standard and the model output.
+  
+    <img width="200" src="img/explicit-terms.png" />
+  
 - [**Implicit terms**](./evaluation/implicit_terms-evaluation): the relevance of the generated implicit terms is manually rated.
-
+  
+  <img width="200" src="img/implicit-terms.png" /> 
 
 <picture>
 <img width="70" alt="image" src="">
