@@ -51,7 +51,7 @@ ___
   
 - [**Implicit terms**](./evaluation/implicit_terms-evaluation): the relevance of the generated implicit terms is manually rated.
   
-  <img width="450" src="img/implicit-terms.png" /> 
+  <img width="550" src="img/implicit-terms.png" /> 
 
 <picture>
 <img width="70" alt="image" src="">
