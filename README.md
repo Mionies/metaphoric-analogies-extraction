@@ -5,7 +5,7 @@
 ___
 
 Joanne Boisson, Zara Siddique, Hsuvas Borkakoty, Dimosthenis Antypas, Luis Espinosa-Anke, Jose Camacho-Collados. 2025. *[Automatic Extraction of Metaphoric Analogies from Literary Texts: Task Formulation, Dataset Construction, and Evaluation.](https://arxiv.org/abs/2412.15375)* *Proceedings of the 31th international conference on computational
-linguistics (coling), Abu Dhabi, UAE*. Association for Computational Linguistics.
+linguistics (COLING), Abu Dhabi, UAE*. Association for Computational Linguistics.
 
 
 ### What are 4-term metaphoric analogies?
