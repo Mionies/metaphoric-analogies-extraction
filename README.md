@@ -38,9 +38,9 @@ values of the 4 frames **T1, T2, S1 and S2**.
 
 - **Prompt used in the experiments**:
   
-<p float="center"> 
-  <img align="center" width="280" src="img/prompt1.png" />
-  <img align="center" width="260" src="img/prompt2.png" /> 
+<p align="center"> 
+  <img width="295" src="img/prompt1.png" />
+  <img width="275" src="img/prompt2.png" /> 
 </p>   
 
 The scripts and output of our experiments with openAI and open source models can be found [here](./experiments).
@@ -49,20 +49,23 @@ The scripts and output of our experiments with openAI and open source models can
 ___
 
 - [**Explicit terms**](./evaluation/explicit_terms-evaluation) : we evaluate the correctness of the extracted explicit terms using an automatic metric of lemmatized head noun match between the gold standard and the model output.
-  
-    <img align="center" width="450" src="img/explicit-terms.png" />
+
+<p align="center">
+    <img width="450" src="img/explicit-terms.png" />
+</p>
   
 - [**Implicit terms**](./evaluation/implicit_terms-evaluation): the relevance of the generated implicit terms is manually rated.
-  
+
+<p align="center">
   <img align="center" width="550" src="img/implicit-terms.png" /> 
+</p>
 
-
+___
 
 <p align="center">
   <img width="80" src="img/Cardiff_University_(logo).svg" /> 
   <img width="80"  src="img/cardiff-nlp-logo.png" />
 </p>
-
 
 ### License
 ___
