@@ -1,0 +1,451 @@
+id,tagged_sentence,T1,T2,S1,S2,n. implicit term,Author,ref page or link,source,long context
+0,A <t>skyscraper</t> is in <t>architecture</t> as a <m>boast</m> is in <m>interpersonal relations</m>.,skyscraper,architecture,boast,interpersonal-relations,0,Mason Cooley,7,Grothe,
+1,A <t>committee</t> is a <m>cul-de-sac</m> down which <t>ideas</t> are lured and then quietly strangled.,committee,ideas,cul-de-sac,<people>,1,Barnett Cocks,1,Grothe,
+2,"As <m>iron</m> is eaten away by <m>rust</m>, so the <t>envious</t> are consumed by their own <t>passion</t>.",envious,passion,iron,rust,0,Antisthene,4,Grothe,
+3,<t>Reading</t> is to the <t>mind</t> what <m>exercise</m> is to the <m>body</m>.,reading,mind,exercise,body,0,Joseph Addison,4,Grothe,
+4,"As <m>cold waters</m> to a <m>thirsty soul<m>, so is <t>good news</t> from a <t>far country</t>.",good news,far country,cold water,thirsty soul,0,The bible proverbs 25:25,4,Grothe,
+5,"As <m>soap</m> is to the <m>body</m>, <t>tears</t> are to the <t>soul</t>.",tears,soul,soap,body,0,Yiddish proverb,4,Grothe,
+6,"What <m>garlic</m> is to <m>salad</m>, <t>insanity</t> is to <t>art</t>.",insanity,art,garlic,salad,0,Augustus Saint-Gaudens,4,Grothe,
+7,The <t>murals</t> in <t>restaurants</t> are on a par with the <m>food</m> in <m>museums</m>.,mural,restaurant,food,museum,0,Peter de Vries,5,Grothe,
+8,"<t>Al Capone</t> was to <t>crime</t> what <m>J.P. Morgan</m> was to <m>Wall Street</m>, the first man to exert national influence over his trade.<>",Al Capone,crime,J.P. Morgan,Wall Street,0,Andrew Sinclair,5,Grothe,
+9,<t>Prisons</t> are to <t>crime</t> what <m>greenhouses</m> are to <m>plants</m>.,prisons,crime,greenhouses,plants,0,Henry David Thoreau,6,Grothe,
+10,"All the <t>world</t>'s a <m>stage</m>, and all the <t>men and women</t> merely <m>players</m>. They have their exits and entrances, and one man in his time plays many parts.",men and women,world,players,stage,0,Shakespeare,9,Grothe,
+11,"<t>Books</t>... are like <m>lobster</m> <m>shells</m>, we surround ourselves with them, then we grow out of them and leave them behind, as evidence of our earlier stage of development.",books,<human>,shells,lobsters,1,Dorothy L. Slayers,12,Grothe,
+12,"<t>Novels</t> are like <m>wives</m>;  you don't talk about them. But <t>movies</t> are different; they are like <m>mistresses</m>, and you can brag a bit.",novels,movies,wife,mistress,0,Anton Chekhov,11,Grothe,
+13,"<t>Medicine</t> is my <m>lawful wife</m> and <t>literature</t> is my <m>mistress</m>; when I tire of one, I spend the night with the other.",medicine,literature,wife,mistress,0,Anton Chekhov,11,Grothe,
+14,"On the <m>banks of the grey torrent</m> of <t>life</t>, <t>love</t> is <m>the only flower</m>.",love,life,the only flower,banks of grey torrent,0,,167,Grothe,
+15,Having your <t>book</t> turned into a <t>movie</t> is like seeing your <m>oxen</m> turned into <m>bouillon cubes</m>.,books,movie,oxen,bouillon cubes,0,John Le Carré,239,Grothe,
+16,A <t>prince</t> who writes against <t>flattery</t> is as strange as a <m>pope</m> who writes against <m>infallability</m>.,prince,flattery,pope,infallibility,0,Voltaire,271,Grothe,
+17,The man who loves <t>other countries</t> as much as <t>his own</t> stands on a level with the man who loves <m>other women</m> as much as he loves <m>his own wife</m>.,other countries,his own,other woman,his own wife,0,Theodore Roosevelt,270,Grothe,
+18,"<t>Ideas</t> are <m>lie arrows</m>, but there has to be a <m>bow</m>. And <m>politics</m> is the bow of idealism.",ideas,politics,arrows,bow,0,Bill Moyers,268,Grothe,
+19,<t>Washington D.C.</t> is to <t>lying</t> what <m>Wisconsin</m> is to <m>cheese</m>.,Washington D.C.,lying,Wisconsin,cheese,0,Dennis Miller,268,Grothe,
+20,A definition is the enclosing a <m>wilderness</m> of <t>idea</t> within a <m>wall</m> of <t>words</t>.,ideas,words,wilderness,walls,0,Samuel Butler,102,Grothe,
+21,<t>Romance</t> has been elegantly defined as the <m>offspring</m> of <t>fiction and love</t>.,fiction and love,romance,<parents>,offspring,1,Isaac D'Israeli,147,Grothe,
+22,<t>Love</t> is a <m>net</m> that catches <t>hearts</t> like a <m>fish</m>.,love,hearts,net,fish,0,Muhammad Alo,163,Grothe,
+23,"Every <t>person</t>'s <t>work</t>, whether it be literature or music or pictures or architecture or anything else, is always a <m>portrait</m> of that <m>person</m>.",person,work,person,portrait,0,Samuel Butler,46,Grothe,
+24,<t>Life</t> is like a <m>game of cards</m>. The <m>hand that is dealt you</m>  represents <t>determinism</t>.,life,determinism,game of cards,the hand that is dealt you,0,Jawaharlal Nehru,121,Grothe,
+25,<t>Life</t> is a great <m>tapestry</m>. The <t>individual</t> is only an insignificant <m>thread</m> in an immense and miraculous pattern.,life,individual,tapestry,thread,0,,,Grothe,
+26,<t>Sports</t> is the <m>toy department</m> of <t>life</t>.,sport,life,toy department,store,0,chapter title,274,Grothe,
+27,"A <t>film director</t> is not a creator, but a <m>midwife</m>. His business is to deliver the <t>actor</t> of a child that he did not know he had within him.",film director,actor,midwife,<pregnant woman>,1,Jean Renoir,238,Grothe,
+28,<t>Patriotism</t> is in <t>political life</t> what <m>faith</m> is in <m>religion</m>.,patriotism,political life,faith,religion,0,John Dahlberg,259,Grothe,
+29,Asking an <t>incumbent member of the congress</t> to vote for <t>term limits</t> is a bit like asking a <m>chicken</m> to vote for <m>Colonel Sanders</m>.,incumbent member of the congres,term limits,chicken,Colonel Sanders,0,Bob Inglis,260,Grothe,
+30,The <t>president of the United States</t> bears about as much relationship to the <t>real business of running America</t> as does the <m>Colonel Sanders</m> to the business of <m>frying chicken</m>.,the president of the United States,real business,Colonel Sanders,frying chicken,0,J.G. Ballard,260,Grothe,
+31,A <t>group of politicians</t> deciding to dump a <t>President</t> because his morals are bad is like the <m>Mafia</m> getting together to bump off the <m>Godfather</m> for not going to the church.,group of politicial,president,Mafia,Godfather,0,Russell Baker,259,Grothe,
+32,<t>Nationalism</t> is an <m>infantile disease</m>. It is the <m>measles</m> of <t>mankind</t>.,nationalism,mankind,infantile disease/measles,mankind,0,Albert Einstein,263,Grothe,
+33,"<t>Power</t> will intoxicate the best <t>hearts</t>, as <m>wine</m> the strongest <m>heads</m>.",power,hearts,wine,heads,0,Charles Caleb Colton,262,Grothe,
+34,<t>Anger</t> is a <m>wind</m> which blows out the <m>lamp</m> of the <t>mind</t>.,anger,mind,wind,lamp,0,Robert G. Ingersoll,105,Grothe,
+35,<t>Autumn</t> is a <m>second spring</m> when every <t>leaf</t> is a <m>flower</m>.,autumn,leaf,second spring,flower,0,Albert Camus,105,Grothe,
+36,<t>Despair</t> is <m>vinegar</m> from the <m>wine</m> of <t>hope</t>.,despair,hope,vinegar,wine,0,Austin O'malley,106,Grothe,
+37,The <t>dance</t> is a <m>poem</m> of which each <t>movement</t> is a <m>word</m>.,dance,movement,poem,word,0,Mata Hari,106,Grothe,
+38,<t>Egotism</t> is the <m>anesthetic</m> that dulls the <m>pain</m> of <t>stupidity</t>.,egotism,stupidity,anesthetic,pain,0,Frank Leahy,108,Grothe,
+39,<t>Feedback</t> is the <m>breakfast</m> of <t>champions</t>.,feedback,champion,breakfast,<people>,1,Ken Blanchard & Spencer Johnson,108,Grothe,
+40,<t>Music</t> is the <m>wine</m> that fills the <m>cup</m> of <t>silence</t>.,music,silence,wine,cup,0,Robert Fripp,112,Grothe,
+41,<t>Vulgarity</t> is the <m>garlic</m> in the <m>salad</m> of <t>charm</t>.,vulgarity,charm,garlic,salad,0,Cyrill Connolly,115,Grothe,
+42,"<t>Zeal</t> is a <m>volcano</m>, on the peak of which the <m>grass</m> of <t>indecisiveness</t> does not grow.",zeal,indecisiveness,volcano,grass,0,Kahlil Gibran,116,Grothe,
+43,<t>Alcohol</t> is the <m>anesthesia</m> by which we endure the <m>operation</m> of <t>life</t>.,alcohol,life,anesthesia,operation,0,George Bernard Shaw,120,Grothe,
+44,"The <t>meeting</t> of <t>two personalities</t> is like the <m>contact</m> of <m>two chemical substances</m>: if there is any reaction, both are transformed.",meeting,two personalities,contact,two chemical substances,0,Carl Jung,149,Grothe,
+45,"<t>Caresses, expressions of one sort or another</t>, are necessary to the life of the <t>affections<t/>, as <m>leaves</m> are to the life of a <m>tree</m>. If they are wholly restrained, love will die at the roots.","caresses, expressions of one sort or another",affections,leaves,tree,0,Nathaniel Howthorne,149,Grothe,
+46,"A <t>man</t> has <m>every season</m>, while a <t>woman</t> has only the right to <m>spring</m>.",man,woman,every season,spring,0,Jane Fonda,148,Grothe,
+47,A <t>man</t> who discovers a <t>woman's weakness</t> is like the <m>huntsman</m> in the heat of the day who finds a <m>cool spring</m>. He wallows in it.,man,woman's weakness,huntsman,cool spring,0,Jean Giraudoux,148,Grothe,
+48,Giving a <t>man</t> <t>space</t> is like giving a <m>dog</m> a <m>computer</m>: the chances are he will not use it wisely.,man,space,dog,computer,0,Bette-Jane Raphael,153,Grothe,
+49,"The great majority of <t>men</t>, especially in France, both desire and possess a <t>fashionable woman</t>, much in the way one might own a <m>fine horse</m> - as a luxury befitting a young man.",men,fashionable woman,men,horse,0,Stendhal,155,Grothe,
+50,<t>Man</t> is the <m>hunter</m>; <t>woman</t> is the <m>game</m>.,man,woman,hunter,game,0,"Alfred, Lord Tennyson",155,Grothe,
+51,"As the <m>moon</m> retains her nature,
+though <m>darkness</m> spread itself before her face as a curtain,
+so the <t>Soul</t> remains perfect
+even in the bosom of the <t>fool</t>.",soul,fool,moon,darkness,0,Akhenaton,,Grothe,
+52,"A <t>man</t> is not necessarily intelligent because he has plenty of <t>ideas</t>, any more than he is a good <m>general</m> because he has plenty of <m>soldiers</m>. ",man,ideas,general,soldiers,0,Nicolas Chamfort,46,Grothe,
+53,"To most <t>men</t>, <t>experience</t> is like the <m>stern lights</m> of a <m>ship</m> which illuminate only the track it has passed.",men,experience,ship,stern lights,0,Samuel Taylor Coleridge,47,Grothe,
+54,<t>Global warning</t> might be a <m>fever</m> the earth is running in an attempt to ward off a <m>deadly infection</m> known as <t>homo sapiens</t>.,global warming,homo sapiens,fever,deadly infection,0,Rick Bayan,109,Grothe,
+55,"<t>Actors</t> are the <m>jockeys</m> of literature. Others supply the <m>horses</m>, the <t>plays</t>, and we simply make them run",actors,plays,jockeys,horses,0,Ralph Ridchardson,237,Grothe,
+56,"<t>Faith</t> is the <m>oasis</m> of the heart, which will never be reached by the <m>caravan</m> of <t>thinking</t>.",thinking,faith,caravan,oasis,0,Kahlil Gibran,103,Grothe,
+57,Giving <t>money and power</t> to <t>government</t> is like giving <m>whiskey and car keys</m> to <m>teenage boys</m>.,money and power,government,whiskey and car keys,teenage boys,0,O'Rourke,6,Grothe,
+58,<t>America</t> is an <m>enormous frosted cupcake</m> in the middle of millions of <t>starving people</t>,America,<poor people>,cupcake,starving people,1,Gloria Steinem,8,Grothe,
+59,<t>Art</t> is the <m>sex</m> of the <t>imagination<t>,art,imagination,sex,<body>,1,George Jean Nathan,8,Grothe,
+60,<t>Worry</t> is <m>interest</m> paid on <t>trouble</t> before it falls due,worry,trouble,interest,<debt>,1,W.R. Inge,8,Grothe,
+61,"The <t>world</t> is a <m>book</m>, and those who do not travel read only <m>one page</m>.",world,<one location>,book,one page,1,St Augustine,11,Grothe,
+62,<t>Art</t> at its most significant is a <m>Distant Early Warning System</m> that can always be relied on to tell the <t>old culture</t> what is beginning to happen to it.,art,old culture,Distant Early Warning System,<people>,1,Marshall Mcluhan,11,Grothe,
+63,<t>Books</t> are like imprisonned <m>souls</m> till someone takes them down from a <t>shelf</t> and frees them.,books,shelves,souls,<prison>,1,Samuel Butler,12,Grothe,
+64,<t>Puns</t> are a three-way <m>Circus</m> of <t>words</t> : [..] words thrusting their heads into the mouths of lions.,puns,words,circus,<performer>,1,Richard Lederer,10,Grothe,
+65,<t>Critics</t> are like <m>pigs</m> in a <m>pastry cart</m>.,critics,<exhibition>/<art circle>/<location>,pigs,pastry cart,1,,15,Grothe,
+66,"<t>Simile</t> is the most familiar of all literary embellishments, in a class with a <m>wedge of lemon or a sprig of parsley</m>. It can raise a <m>cupcake</m> to the level of a petit four.",simile,literary text,wedge of lemon,cupcake,1,James J. Kilpatrick,17,Grothe,
+67,<t>Unsolicited advice</t> is the <m>junk mail</m> of <t>life</t>.,unsolicited advice,life,junk mail,<mail box>,1,,105,Grothe,
+68,<t>Fame</t> is a <m>fickle food</m> upon a <m>shifting plate</m>.,Fame,<public>,fickle food,shifting plate,1,Emily Dickinson,103,Grothe,
+69,Our <t>birthdays</t> are <m>feathers</m> in the </m>broad wing<m> of <m>time</m>.,birthday,time,feather,broad wing,1,Jean Paul Richter,105,Grothe,
+70,<t>Tears</t> are the <m>safety valve</m> of the <t>heart</t> when too much pressure is led on it.,tears,heart,safety valve,<machine>,1,Albert Smith,114,Grothe,
+71,"A <t>quarrel between friends</t>, when made up, adds a new tie to friendship, as experience shows that the <m>callosity</m> formed round a <m>broken bone</m> makes it stronger than before",quarrel between friends,<reconciliation>,broken bone,callosity,1,"St, Francis de Sales",146,Grothe,
+72,"<t>Life</t> is a <m>hospital</m> in which every <m>patient</m> is possessed by the desire of changing his bed. One would prefer to suffer near the fire, and another is certain he would get well if he were by the window.",life,<humans>,hospital,patient,1,Charles Baudelaire,70,Grothe,
+73,"<t>Life</t> loves to be taken by the <m>lapel</m> and told, ""I am with you <m>kid</m>, lets go.""",life,<fraternity>/<support>,kid,lapel,1,Maya Angelou,122,Grothe,
+74,<t>Life</t> is a <m>moderately good play</m> with a <m>badly written third act</m>.,life,<old age>,moderately good play,badly written third act,1,Truman Capote.,125,Grothe,
+75,"<t>Society</t> is like a <m>stew</m>. If you don't stir it up every once in a while, then a <m>layer of scum</m> floats to the top.",society,<social class>,stew,layer of scum,1,Edward Abbey,17,Grothe,
+76,"<t>I</t> make all my <t>decisions</t> on intuition. <t>I</t> throw a <m>spear</m> into the darkness, that is intuition. ",I,intuition,I,spear,1,Ingmar Bergman,238,Grothe,
+77,<t>Money</t> is the <m>mother's milk</m> of <t>politics</t>.,money,politics,mothers's milk,<baby>,1,Jesse Unruh,258,Grothe,
+78,My movements to the <t>chair of Government</t> will be accompanied by feelings not unlike those of a <m>culprit</m> who is going to the <m>place of his execution</m>.,<me>,chair of Government,culprit,place of execution,1,George Washington,256,Grothe,
+79,"<t>Written laws</t> are like <m>spiders' webs</m>, and will, like them, only entangle and hold the <t>poor and weak</t> [...].",written laws,poor and weak,spiders' webs,<weak insects>,1,Anacharsis,257,Grothe,
+80,<t>Written laws</t> are like <m>spiders' webs</m> [...] the <t>rich and powerful</t> will easily break through them.,written laws,rich and powerful,spiders' webs,<strong insects>,1,Anacharsis,257,Grothe,
+81,"<t>Laws</t> are like <m>cobwebs</m>, which may catch <m>small flies</m>.",laws,<offenders>,cobwebs,small flies,1,Jonathan Swift,257,Grothe,
+82,"<t>Laws</t> are like <m>cobwebs</m>, [...] let <m>wasps and hornets</m> break through.",laws,<criminals>,cobwebs,wasps and hornets,1,Jonathan Swift,257,Grothe,
+83,<t>Politics</t> is the <m>womb</m> in which <t>war</t> develops.,politics,war,womb,<foetus>,1,Karl Von Clausewitz,262,Grothe,
+84,A <t>man's action</t> is only a <m>picture book</m> of his <t>creed</t>.,man's action,creed,picture book,<story>,1,Ralph Waldo Emerson,104,Grothe,
+85,<t>Adventure</t> is the <m>champagne</m> of <t>life</t>.,adventure,life,champagne,<party>/<event>,1,G. K. Chesterton,104,Grothe,
+86,The <t>adjective</t> is the <m>banana peel</m> of the <m>part of speech</m>.,adjective,part of speech,banana peel,<safer ground>,1,Clifton Fadiman,104,Grothe,
+87,"<t>Modern English</t> is the <m>Wal-Mart</m> of <t>languages</t>: convenient, huge, hard to avoid, superficially friendly, and devouring all rivals in its eagerness.",modern English,languages,Wal-Mart,<shops>,1,Mark Abley,104,Grothe,
+88,An <t>apology</t> is the <m>super glue</m> of <t>life</t>. It can repair just about anything.,apology,life,super-glue,<object>,1,Lynn Johnston,105,Grothe,
+89,<t>Doctrine</t> is nothing but the <m>skin</m> of <t>truth</t> set up and stuffed.,doctrine,truth,skin,<body>,1,Henry Ward Beecher,107,Grothe,
+90,<t>Chaos</t> is the <m>score</m> upon which <t>reality</t> is written.,chaos,reality,score,<music>,1,Henry Miller,106,Grothe,
+91,<t>Courage</t> is the <m>ladder</m> on which <t>other virtues</t> mount.,courage,other virtues,ladder,<persons>,1,Clare Booth Luce,106,Grothe,
+92,The <m>dew</m> of <t>compassion</t> is a <t>tear</t>.,tear,compassion,dew,<surface>/<plants>,1,Lord Byron,106,Grothe,
+93,"<t>Compromise</t> makes a good <m>umbrella</m>, but a poor <m>roof</m>.",compromise,<intransigence>,umbrella,roof,1,James Russell Lowell,106,Grothe,
+94,The <t>dress</t> is the <m>vase</m> which the <t>body</t> follows.,dress,body,vase,<malleable substance>,1,Pierre Cardin,108,Grothe,
+95,<t>Failure</t> is the <m>condiment</m> that gives <t>success</t> its flavor.,failure,success,condiment,<dish>,1,Truman Capote,108,Grothe,
+96,The <t>flower</t> is the <m>poetry</m> of <t>reproduction</t>.,flower,reproduction,poetry,<agent>,1,Jean Giraudoux,108,Grothe,
+97,<t>Freedom</t> is the <m>oxygen</m> of the <t>soul</t>.,freedom,soul,oxygen,<body>,1,Moshe Dayan,109,Grothe,
+98,<t>Genius</t> is a <m>promontory</m> jutting out into the <t>infinite</t>.,genius,infinite,promontory,<horizon>,1,Victor Hugo,109,Grothe,
+99,"<t>Habit</t> is a <m>cable</m>; we weave a <m>thread</m> of it each day, and at last we cannot break it.",habit,<act>,cable,thread,1,Horace Mann,109,Grothe,
+100,<t>Procrastination</t> is the <m>thief</m> of <t>time</t>.,procrastination,time,thief,<good>,1,Edward Young,113,Grothe,
+101,<t>Poverty</t> is the <m>mother</m> of <t>crime</t>.,poverty,crime,mother,<child>,1,Marcus Aurelius,113,Grothe,
+102,A <t>proverb</t> is <t>anonymous human history</t> compressed to the size of a <m>seed</m>.,proverb,anonymous human history,seed,<tree>,1,Stefan Kanfer,113,Grothe,
+103,<t>Peanut butter</t> is <m>paté</m> for <t>children</t>.,peanut butter,children,paté,<pet>,1,Brigitte Bardot,113,Grothe,
+104,"If I were to personally define <t>religion</t>, I would say that it is a <m>bandage</m> that man has invented to protect a <t>soul</t> made bloody by circumstance.",religion,soul,bandage,<wound>,1,Theodore Dreiser,113,Grothe,
+105,A <t>riot</t> is the <m>language</m> of the <t>unheard</t>.,riot,unheard,language,<people>,1,"Martin Luther King, Jr",114,Grothe,
+106,<t>Scientists</t> are <m>peeping toms</m> at the keyhole of <t>eternity</t>.,scientists,eternity,peeping toms,<bedroom>,1,Arthur Koestler,114,Grothe,
+107,<t>Skepticism</t> is the <m>chastity</m> of the <t>intellect</t>.,skepticism,intellect,chastity,<body>,1,George Santayana,114,Grothe,
+108,<t>Thought</t> is the <m>seed</m> of <t>action</t>.,thought,action,seed,<plant>,1,Ralph Waldo Emerson,115,Grothe,
+109,<t>Virtue</t> is the <m>beauty</m> of the <t>soul</t>.,virtue,soul,beauty,<body>,1,Socrates,115,Grothe,
+110,A <t>word</t> is a <m>bud</m> attempting to become a <m>twig</m>.,word,<sentence>/<phrase>,bud,twig,1,Gaston Bachelard,116,Grothe,
+111,<t>Life</t> is like riding a <m>bicycle</m>. To keep your <m>balance</m> you must keep moving.,life,<well-being>,bicycle,balance,1,Albert Einstin,119,Grothe,
+112,<t>Life</t> is like a <m>ten-speed bicycle</m>. Most of us have <m>gears</m> we never use.,life,"<potential>,<skills>",ten-speed bicycle,gears,1,Charles M. Schulz,119,Grothe,
+113,A <t>face</t> is too slight a <m>foundation</m> for <t>happiness</t>.,face,happiness,foundation,<construction>,1,Mary Wortley Montagu,152,Grothe,
+114,"<t>Glances</t> are the <m>heavy artillery</m> of the <t>flirt</t>: everything can be conveyed in a look, yet that look can always be denied, for it cannot be quoted word for word.",glances,flirt,heavy artillery,"<battle>,<war>",1,Stendhal,155,Grothe,
+115,"<t>Prejudice</t> is the <m>psoriasis</m> of the <t>human condition</t>: it's unsightly and it never completely vanishes, but with a little care we can keep it under control.",prejudice,human condition,psoriasis,<bodies>,1,Rick Bayan,46,Grothe,
+116,No <m>fathers or mothers</m> think their <m>own children</m> ugly; and this self-deceit is yet stronger with respect to the offspring of the <t>mind</t>.,mind,<ideas>,fathers or mothers,own children,1,Miguel de Cervantes,46,Grothe,
+117,There are some <t>people</t> who leave impression not so lasting as the imprint of an <m>oar</m> upon the <m>water</m>.,people,<mind>,oar,water,1,Kate Chopin,47,Grothe,
+118,"<t>Criticism</t> may not be agreeable, but it is necessary, It fulfills the same function as <m>pain</m> in the <m>human body</m>. It calls attention to an unhealthy state of things.",criticism,<mind>,pain,body,1,Winston Chirchill,47,Grothe,
+119,"When you get back together with an <t>old boyfriend</t>, it's pathetic. It's like having a <m>garage sale</m> and buying your <m>own stuff</m> back.",<dating-activities>,old boyfriend,garage sale,old stuff,1,Laura Kightlinger,149,Grothe,
+120,<t>Everything that reminds me of her</t> goes through <t>me</t> like a <m>spear</m>.,everything that reminds of her,me,spear,<me>,1,John Keats,149,Grothe,
+121,"An election is coming. Universal peace is declared, and the <m>foxes</m> have a sincere interest in prolonging the lives of the <m>poultry</m>.",<candidates>,<population>,foxes,poultry,2,George Eliot,263,Grothe,
+122,<t>Exaggeration</t> is <t>truth</t> that has lost its temper.,exaggeration,truth,<person who has lost their temper>,<person who hasn't lost their temper>,2,Kahlil Gibran,108,Grothe,
+123,A <t>man</t>... should keep his <t>friendship</t> in constant repair.,man,friendship,<man>,<machine>/<precious object>,2,Dr Samuel Johnson,149,Grothe,
+124,"One of those involuntary revealing <t>thoughts</t> one surprises, running like a <m>rat</m> through the <m>muck-heap</m> of my <m>mind</m>: Maybe I'll be able to afford that ikon if he goes.",thoughts,mind,rat,muck-heap,0,"Friend, Donald ",https://metaphors.iath.virginia.edu/metaphors/24508,metaphors of mind,"I wonder what will happen tomorrow.
+One of those involuntary revealing thoughts one surprises, running like a rat through the muck-heap of my mind: Maybe I'll be able to afford that ikon if he goes."
+125,Her <t>mind</t> was as full of <t>religion</t> as a <m>night sky</m> is full of <m>things visible and invisible</m>. She left the man and took his religion and became a nun in the course of time.,mind,religion,night sky,visible and invisible things,0,"Spark, Muriel",https://metaphors.iath.virginia.edu/metaphors/17442,metaphors of mind,"The family had returned and their meetings were dangerous and exciting. The more she discovered him to be still in love with Jean Brodie, the more she was curious about the mind that loved the woman. By the end of the year it happened that she had quite lost interest in the man himself, but was deeply absorbed in his mind, from which she extracted, among other things, his religion as a pith from a husk. Her mind was as full of religion as a night sky is full of things visible and invisible. She left the man and took his religion and became a nun in the course of time."
+126,"Your <t>mind</t> now, mouldering like <m>wedding-cake</m>
+heavy with useless experience, rich
+with suspicion, rumor, fantasy,
+crumbling to pieces under the <m>knife-edge</m>
+of <m>mere fact</m>.",mind,mere fact,wedding-cake,knife-edge,0,"Rich, Adrienne",https://metaphors.iath.virginia.edu/metaphors/19648,metaphors of mind,"You, once a belle in Shreveport,
+with henna-colored hair, skin like a peachbud,
+still have your dresses copied from that time.
+and play a Chopin prelude
+called by Cortot: ""Delicious recollections
+float like perfume through the memory.""
+
+Your mind now, mouldering like wedding-cake
+heavy with useless experience, rich
+with suspicion, rumor, fantasy,
+crumbling to pieces under the knife-edge
+of mere fact. In the prime of your life."
+128,"The <t>mind</t> works like a <m>prism</m>, and when a <m>ray of light</m> enters the prism it is divided into seven colors. Mind is a prism and <t>reality</t> is divided through it.",mind,reality,prism,ray of light,0,Osho,https://metaphors.iath.virginia.edu/metaphors/17595,metaphors of mind,"The mind works like a prism, and when a ray of light enters the prism it is divided into seven colors. Mind is a prism and reality is divided through it. That is why mind revels in analysis. It goes on dividing things into fragments, and it cannot prevent itself unless there is nothing to be divided anymore. So mind has a tendency to reach to the atomic, the lowest division. It goes on dividing, dividing, until a moment comes when no division is possible. If division is still possible, it will divide still further."
+129,<t>Mind</t> contemplating <t>mind</t> is like an <m>object</m> and its <m>shadow</m>--the object cannot shake the shadow off. The two are one.,mind,mind,object,shadow,0,Thich Nhat Hanh,https://metaphors.iath.virginia.edu/metaphors/24147,metaphors of mind,"The mind is like a monkey swinging from branch to branch through a forest, says the Sutra. In order not to lose sight of the monkey by some sudden movement, we must watch the monkey constantly and even to be one with it. Mind contemplating mind is like an object and its shadow--the object cannot shake the shadow off. The two are one. Wherever the mind goes, it still lies in the harness of the mind. The Sutra sometimes uses the expression ""Bind the monkey"" to refer to taking hold of the mind. But the monkey image is only a means of expression. Once the mind is directly and continually aware of itself, it is no longer like a monkey. There are not two minds, one which swings from branch to branch and another which follows after to bind it with a piece of rope."
+130,"The discipline tying <t>mind</t> in that way to the <t>meditative object</t> is expressed by the simile of training an <m>elephant</m>, for example, a wild elephant is tied with many massive cords to a <m>trunk or a post</m>.",mind,meditative object,elephant,a trunk or a post,0,"— Wayman, Alex",https://metaphors.iath.virginia.edu/metaphors/24149,metaphors of mind,"The discipline tying mind in that way to the meditative object is expressed by the simile of training an elephant, for example, a wild elephant is tied with many massive cords to a trunk or a post. However the elephant [may] stamp as he has learned ot do, he is indeed unable to do anything (about it), and being more and more enmeshed with the sharp hooks, is defeated and subdued (""broken in""). The mind is like the untrained elephant. When it is bound with the cord of mindfulness to the firm post of the previously discussed meditative object, [even] if it is unwilling to remain there, it is gradually brought under control, goaded by the hook of awareness. [...]"
+131,"Like <m>trees similar</m> in their gross <m>physical profile</m>, <t>brains</t> can be similar in their gross <t>functional profiles</t> while being highly idiosyncratic in the myriad details of their fine-grained arborization.",brains,functional profile,trees,physical profile,0,"Churchland, Paul ",https://metaphors.iath.virginia.edu/metaphors/20096,metaphors of mind,"While the weights are of essential importance for understanding long-term learning nad fundamental conceptual change, the partitions across the activation space, and the prototypical hot-spots they harbor, are much more useful in reckoning the cognitivie and behavioral similarities across individuals in the short term. People react to the world in similar ways not because their underlying weight configurations are closely similar on a synapse-by-synapse comparison, but because their activation spaces are similarly partitioned. Like trees similar in their gross physical profile, brains can be similar in their gross functional profiles while being highly idiosyncratic in the myriad details of their fine-grained arborization."
+132,"Just as a <m>cake</m> recipe requires you to use flour, sugar, and <m>baking powder in the right amounts</m>, your <t>brain</t> needs a <t>fine chemical balance</t>.",brain,chemical balance,cake,right amount of each ingredient,0,— Anonymous,https://metaphors.iath.virginia.edu/metaphors/25283,metaphors of mind,"Focus shifted from norepinephrine to the neurotransmitter serotonin, and, in 1988, Prozac appeared, soon followed by other selective serotonin reuptake inhibitors (SSRIs). Promotional material from GlaxoSmithKline couched the benefits of its SSRI Paxil in cozy terms: ""Just as a cake recipe requires you to use flour, sugar, and baking powder in the right amounts, your brain needs a fine chemical balance."""
+133,"<m>Cultivated ground</m> has few <m>weeds</m>; a <t>mind occupied by lawful business</t>, has little room for <t>useless regret</t>.",mind occupied by lawful business,useless regret,cultivated ground,weeds,0,"Johnson, Samuel (1709-1784)",https://metaphors.iath.virginia.edu/metaphors/22935,metaphors of mind,"I do not exhort you to reason yourself into tranquillity. We must first pray, and then labour; first implore the blessing of God, and those means which he puts into our hands. Cultivated ground has few weeds; a mind occupied by lawful business, has little room for useless regret."
+134,"These <t>charges</t>, at first held in constant <t>mind</t>, from Theseus slipped away as <m>clouds</m> are impelled by the breath of the winds from the <m>ethereal peak of a snow-clad mount</m>.",charges,mind,clouds,ethereal peak of a snow-clad mount,0,— Gaius Valerius Catullus (c. 84 - c. 54 B.C.),https://metaphors.iath.virginia.edu/metaphors/18401,metaphors of mind,"These charges, at first held in constant mind, from Theseus slipped away as clouds are impelled by the breath of the winds from the ethereal peak of a snow-clad mount. But as his father sought the castle's turrets as watchplace, dimming his anxious eyes with continual weeping, when first he spied the discoloured canvas, flung himself headlong from the top of the crags, believing Theseus lost by harsh fate. Thus as he entered the grief-stricken house, his paternal roof, Theseus savage with slaughter met with like grief as that which with unmemoried mind he had dealt to Minos' daughter: while she gazed with grieving at his disappearing keel, turned over a tumult of cares in her wounded spirit."
+135,"<m>Corn</m> is cleansed with <m>wind</m>, and the <t>Soul</t> with <t>chastning</t>.",soul,chastning,corn,wind,0,"— Ray [formerly Wray], John (1627-1705)",https://metaphors.iath.virginia.edu/metaphors/18834,metaphors of mind,"Confession of a fault makes half amends for it.
+He that contemplates hath a day without a night.
+He may well be contented who needs neither borrow nor flatter.
+He that converseth not with men knoweth nothing.
+Corn in good years is hay, in ill years straw is corn.
+Corn is cleansed with the wind, and the soul with chastning.
+He covers me with his wings, and bites me with his bill.
+A covetous man is like a dog in a wheel that roasteth meat for others.
+A dry cough is the trumpeter of death."
+136,"Thus <t>Vice and Virtue</t> do my <t>Soul</t> divide,  Like a <m>Ship</m> tost between the <m>Wind and Tide</m>.",Soul,Vice and Virtue,Ship,Wind and Tide,0,"Arwaker, Edmund (c.1655-1730)",https://metaphors.iath.virginia.edu/metaphors/18841,metaphors of mind,"O! that some usual Labour were injoyn'd,
+And not the Tyrant Vice enslav'd my mind!
+No weight of Chains cou'd grieve my captive Hands,
+Like the loath'd Drudg'ry of its base Commands;
+By this a double mis'ry I contract,
+Ev'n I condemn the hated Ills I act.
+Yet of my Chains I'm not so weary grown,
+But that I still am putting others on.
+For Sin has always this attending Curse,
+To back the first Transgression with a worse:
+This to my sorrow, I too often find!
+Yet no Experience warns my heedless mind.
+Thus Vice and Virtue do my Soul divide,
+Like a Ship tost between the Wind and Tide.
+Pleasure, the Bawd to Vice, here draws me in,
+There, Grief, its Follow'r, pulls me back from Sin:
+Yet Pleasure oft comes Conqueror from the Field,
+Whilst I to Vice, inglorious Homage yield.
+Tho' Grief does still with Vice in triumph ride,
+Plac'd like a Slave by that great Conqu'ror's side.
+Thus Vice and Virtue have alternate sway,
+While I, with endless labour, Both obey:
+And to increase my pains, as if too small,
+Thy heavy hand comes in the rear of all,
+And with deep piercing strokes corrects me more,
+For what was punish'd in it self before.
+Thus guilty Souls in Hell are scourg'd for Sin;
+Their never-ending Pains thus still begin."
+137,"The difference between the kind of <t>fleeting sleep loss we sometimes experience</t> and the <t>chronic deprivation</t> is like the difference between a <m>snowstorm's disrupting a single day of trash pickup</m> and a <m>prolonged strike</m>. No longer quite as easy to fix, and even when the strike is over, there's likely to be some stray debris floating around for quite some time yet.""",fleeting sleep loss we sometimes experience,chronic deprivation,snowstorm's disrupting a single day of trash pickup,prolonged strike,0,"Konnikova, Maria",https://metaphors.iath.virginia.edu/metaphors/23345,metaphors of mind,"""It's [concerning sleep loss] like the difference between a snowstorm's disrupting a single day of trash pickup and a prolonged strike. No longer quite as easy to fix, and even when the strike is over, there's likely to be some stray debris floating around for quite some time yet.""
+Metaphor in Context
+But there is a difference between the kind of fleeting sleep loss we sometimes experience and the chronic deprivation that comes from shift work, insomnia and the like. In one set of studies, soon to be published in The Journal of Neuroscience, the Veasey lab found that while our brains can recover quite readily from short-term sleep loss, chronic prolonged wakefulness and sleep disruption stresses the brain's metabolism. The result is the degeneration of key neurons involved in alertness and proper cortical function and a buildup of proteins associated with aging and neural degeneration.
+
+It's like the difference between a snowstorm's disrupting a single day of trash pickup and a prolonged strike. No longer quite as easy to fix, and even when the strike is over, there's likely to be some stray debris floating around for quite some time yet. ""Recovery from sleep loss is slower than we'd thought,"" Dr. Veasey notes. ""We used to think that after a bit of recovery sleep, you should be fine. But this work shows you're not."""
+138,"Just as the <m>ties</m> recur beneath his <m>train</m>, <t>dreams</t> underlie
+his <t>rushing brain</t>.",dreams,rushing brain,ties,train,0,"Bishop, Elizabeth",https://metaphors.iath.virginia.edu/metaphors/17598,metaphors of mind,"Each night he must be carried through artificial tunnels and dream recurrent dreams.
+Just as the ties recur beneath his train, these underlie
+his rushing brain. He does not dare look out the window,
+for the third rail, the unbroken draught of poison,
+runs there beside him. He regards it as a disease
+he has inherited susceptibility to. He has to keep
+his hands in his pockets, as others must wear mufflers."
+139,"Like the <m>notes of an old violin</m>,
+<t>Thoughts</t> talk to me within
+My <t>mind</t>, that <m>shuttered room</m>",thoughts,mind,notes of an old violin,shuttered room,0,"Sassoon, Siegfried",https://metaphors.iath.virginia.edu/metaphors/16889,metaphors of mind,"Like the notes of an old violin,
+Thoughts talk to me within
+My mind, that shuttered room [...]
+Old friends whose charity shone
+For me, be memory-mine."
+140,Research explains why forgetting delivers this memory boost. <t>Memories</t> don't fly out of our <t>brains</t> like <m>sparrows</m> from a <m>barn</m>.,memories,brain,sparrows,barn,0,"Boser, Ulrich",https://metaphors.iath.virginia.edu/metaphors/25076,metaphors of mind,"Research explains why forgetting delivers this memory boost. Memories don't fly out of our brains like sparrows from a barn. Instead, our brain will make memories more or less accessible. Some recollections, like the name of a close friend, are easily recalled. Other details, like the color of your childhood bedroom, have been tucked into deep storage and are much harder -- if not impossible -- to retrieve."
+141,"Further, just as the <m>human stomach</m> -- unlike the termite's -- can't digest <m>wood</m>, so there are <t>some things</t> our <t>brains</t> just aren't capable of knowing.",brains,some things our brains just aren't capable of knowing,human stomach,wood,0,"Kaplan, Eric",https://metaphors.iath.virginia.edu/metaphors/245111,metaphors of mind,"Church's argument is double-barreled. First he argues we have no way of knowing if Santa is really there. Even if we observed every chimney in the world, we wouldn't know that Santa couldn't slip through in some as yet undetected and untheorized manner. After all, we know today that both Church and Virginia had neutrinos passing through their bodies although neutrinos were far beyond the most advanced physics of their day. Maybe Santa's like that. Further, just as the human stomach -- unlike the termite's -- can't digest wood, so there are some things our brains just aren't capable of knowing. Maybe Santa is one of them."
+142,"The upper part of the <t>skull</t> had been removed, and the exposed edge covered in layer after layer of gauze, completely saturated with blood, forming a funnel down into the interior of the cranium. The <t>brain</t> was gently pulsating within. It resembled a <m>small</m> animal in a <m>grotto</m>. ",brain,skull,small animal,grotto,0,"Knausgaard, Karl Ove",https://metaphors.iath.virginia.edu/metaphors/24758,metaphors of mind,"The silence was total. The single focus of attention was a head clamped in a vise in the middle of the room. The upper part of the skull had been removed, and the exposed edge covered in layer after layer of gauze, completely saturated with blood, forming a funnel down into the interior of the cranium. The brain was gently pulsating within. It resembled a small animal in a grotto. Or the meat of an open mussel. Two doctors were bending over the head, each of them moving long, narrow instruments back and forth inside the opening. One nurse was assisting them, another was standing a few yards away, watching. A whispery slurping sound issued from one of the instruments, like the sound produced by the tool a dentist uses to suck away saliva from a patient’s mouth. Next to us was a monitor showing an enlarged image of the brain. In the middle, a pit had been scooped out. In the center of the pit was a white substance, shaped like a cube. The white cube, which appeared to be made of firmer stuff, was rubbery and looked like octopus flesh. I realized that it must be the tumor."
+143,<t>Books</t> live in the <t>mind</t> like <m>honey</m> inside a <m>beehive<m/>.,books,mind,honey,beehive,0,"McGrath, Campbell",https://metaphors.iath.virginia.edu/metaphors/17881,metaphors of mind,"Books live in the mind like honey inside a beehive,
+that ambrosial archive, each volume sealed in craft-made paper,
+nutritive cells, stamen-fragrant, snug as apothecary jars."
+144,His <t>mind</t> snagged on the <t>word</t> like a <m>fish</m> on a <m>hook</m>.,mind,word,fish,hook,0,"Nicholls, David",https://metaphors.iath.virginia.edu/metaphors/24180,metaphors of mind,"She shrugged. 'Wise old gypsy told me.'
+'I suppose you disagree on political grounds or something.'
+'Just ... not for me, that's all.'
+'I can see you now. Big white dress, bridesmaids, little page boys, blue garter ...' Garter. His mind snagged on the word like a fish on a hook.
+'As a matter of fact, I think there are more important things in life than ""relationships"".'"
+145,"I sometimes fancy that <t>various archetypal situations</t> circled tirelessly in <t>Hitchcock's mind</t>, like <m>whales</m> in a tank at the <m>zoo</m>.",various archetypal situations,Hitchcock's mind,whales,tank,0,"Ebert, Roger",https://metaphors.iath.virginia.edu/metaphors/19952,metaphors of mind,"I sometimes fancy that various archetypal situations circled tirelessly in Hitchcock's mind, like whales in a tank at the zoo. One of them was fascination of voyeurism--of watching people who do not know they are being watched. Another, famously, was the notion of an innocent man wrongly accused. And many of his films illustrate male impotence or indifference in the face of cool blond beauty. Much is said of Hitchcock's blonds (Kim Novak, Eva Marie Saint, Grace Kelly, Tippi Hedren), but observe that they are not erotic playmates so much as puzzles or threats. Lisa, the Kelly character, has a hopeless love for Jeff, who keeps her at arm's length with descriptions of his lifestyle; a fashion model wouldn't hold up in the desert or jungle, he tells her."
+146,"It was hard enough to rescue himself from the <m>avalanche</m> of his own <t>feelings</t>, without allowing the <m>gloomy St Bernard</m> of his <t>attention</t> to wander into other fields.
+",feelings,attention,avalanche,gloomy St Bernard,0,Edward St. Aubyn,https://metaphors.iath.virginia.edu/metaphors/24690,metaphors of mind,"The question filled Patrick with the horror which assailed him when he was asked to consider another person's feelings. How was Debbie? How the fuck should he know? It was hard enough to rescue himself from the avalanche of his own feelings, without allowing the gloomy St Bernard of his attention to wander into other fields. On the other hand the amphetamines had given him an urgent desire to talk and he couldn't ignore the question entirely."
+147,"<t>Heroin</t> landed purring at the base of his skull, and wrapped itself darkly around his <t>nervous system</t>, like a <m>black cat</m> curling up on its <m>favourite cushion</m>.",heroin,nervous system,black cat,its favourite cushion,0,Edward St. Aubyn,https://metaphors.iath.virginia.edu/metaphors/24697,metaphors of mind,"No, he mustn't think about it, or indeed about anything, and especially not about heroin, because heroin was the only thing that really worked, the only thing that stopped him scampering around in a hamster's wheel of unanswerable questions. Heroin was the cavalry. Heroin was the missing chair leg, made with such precision that it matched every splinter of the break. Heroin landed purring at the base of his skull, and wrapped itself darkly around his nervous system, like a black cat curling up on its favourite cushion. It was as soft and rich as the throat of a wood pigeon, or the splash of sealing wax onto a page, or a handful of gems slipping from palm to palm."
+148,"Just as <m>birds</m> are lifted up into the air by their <m>feathers</m> and can remain wherever they wish, the <t>soul</t> in the body is elevated by <t>thought</t> and spreads its wings everywhere.",soul,thought,bird,feathers,0,"Offill, Jenny",https://metaphors.iath.virginia.edu/metaphors/24729,metaphors of mind,"The only bad thing about New Orleans was the heat. At night, we filled bath towels with ice cubes and held them to our wrists. When it was too hot to sleep, my mother read to me for hours from the natural history of St. Hildegard. About birds, St. Hildegard wrote:
+Birds are colder than animals that live on the earth, because they are not conceived in such intense and heated desire. Just as birds are lifted up into the air by their feathers and can remain wherever they wish, the soul in the body is elevated by thought and spreads its wings everywhere."
+149,"I tried to think what I had loved knives for, but my <t>mind</t> slipped from the <m>noose</m> of the <t>thought</t> and swung, like a <m>bird</m>, in the center of empty air.",mind,thought,bird,noose,0,"Plath, Sylvia",https://metaphors.iath.virginia.edu/metaphors/17425,metaphors of mind,"I took up the silver knife and cracked off the cap of my egg. Then I put down the knife and looked at it. I tried to think what I had loved knives for, but my mind slipped from the noose of the thought and swung, like a bird, in the center of empty air."
+150,"And yet the <t>rage</t> that one felt was an abstract, undirected emotion which could be switched from one object to another like the <m>flame</m> of a <m>blowlamp</m>.",<man>,rage,blowlamp,flame,1," Orwell, George ",https://metaphors.iath.virginia.edu/metaphors/25016,metaphors of mind,"In its second minute the Hate rose to a frenzy. People were leaping up and down in their places and shouting at the tops of their voices in an effort to drown the maddening bleating voice that came from the screen. The little sandy-haired woman had turned bright pink, and her mouth was opening and shutting like that of a landed fish. Even O'Brien's heavy face was flushed. He was sitting very straight in his chair, his powerful chest swelling and quivering as though he were standing up to the assault of a wave. The dark-haired girl behind Winston had begun crying out 'Swine! Swine! Swine!' and suddenly she picked up a heavy Newspeak dictionary and flung it at the screen. It struck Goldstein's nose and bounced off; the voice continued inexorably. In a lucid moment Winston found that he was shouting with the others and kicking his heel violently against the rung of his chair. The horrible thing about the Two Minutes Hate was not that one was obliged to act a part, but, on the contrary, that it was impossible to avoid joining in. Within thirty seconds any pretence was always unnecessary. A hideous ecstasy of fear and vindictiveness, a desire to kill, to torture, to smash faces in with a sledge-hammer, seemed to flow through the whole group of people like an electric current, turning one even against one's will into a grimacing, screaming lunatic. And yet the rage that one felt was an abstract, undirected emotion which could be switched from one object to another like the flame of a blowlamp. Thus, at one moment Winston's hatred was not turned against Goldstein at all, but, on the contrary, against Big Brother, the Party, and the Thought Police; and at such moments his heart went out to the lonely, derided heretic on the screen, sole guardian of truth and sanity in a world of lies. And yet the very next instant he was at one with the people about him, and all that was said of Goldstein seemed to him to be true. At those moments his secret loathing of Big Brother changed into adoration, and Big Brother seemed to tower up, an invincible, fearless protector, standing like a rock against the hordes of Asia, and Goldstein, in spite of his isolation, his helplessness, and the doubt that hung about his very existence, seemed like some sinister enchanter, capable by the mere power of his voice of wrecking the structure of civilization."
+151,<t>I</t> stored <t>the fact that there were real glasses in the corner of my mind</t> the way a <m>squirrel</m> stores a <m>nut</m>.,I,the fact that there were real glasses in the corner of my mind,squirrel,nut,1,"Plath, Sylvia",https://metaphors.iath.virginia.edu/metaphors/17423,metaphors of mind,A maid in a green uniform was setting the tables for supper. There were white linen tablecloths and glasses and paper napkins. I stored the fact that there were real glasses in the corner of my mind the way a squirrel stores a nut. At the city hospital we had drunk out of paper cups and had no knives to cut our meat. The meat had always been so overcooked we could cut it with a fork.
+152,Delicious <t>recollections</t> float like <m>perfume</m> through the <t>memory</t>.,recollections,memory,perfume,<room>,1,"Rich, Adrienne",https://metaphors.iath.virginia.edu/metaphors/24967,metaphors of mind,"You, once a belle in Shreveport,
+with henna-colored hair, skin like a peachbud,
+still have your dresses copied from that time.
+and play a Chopin prelude
+called by Cortot: ""Delicious recollections
+float like perfume through the memory.""
+
+Your mind now, mouldering like wedding-cake
+heavy with useless experience, rich
+with suspicion, rumor, fantasy,
+crumbling to pieces under the knife-edge
+of mere fact. In the prime of your life."
+153,"<t>Words</t> came without volition, sinking very slowly through his <t>mind</t> like <m>pebbles</m>.",words,mind,pebbles,<water>,1,"Murdoch, Iris",https://metaphors.iath.virginia.edu/metaphors/24510,metaphors of mind,"The room was small and narrow and the bed, which stretched along the wall, took up most of it. There were no sheets, but a mound of thin blankets underneath which Tallis slept in winter and on top of which he slept in summer. Books were piled against the other wall. Tallis pulled his legs up and leaned back. He could not think without a table. Better to give up and sleep now. Get up early and finish lecture. Better without a table. Better give up and sleep now. Get up early and finish lecture. Better not thoughts now. Sleep. Unbeing. No point in kneeling down, folding hands, muttering. Self-abasement, prostration, licking the groung and wriggling through. Tears and sex. God, what a muck-heap my mind is, thought Tallis. He closed his eyes and tried to breathe slowly and regularly. Words came without volition, sinking very slowly through his mind like pebbles. Words out of some lost and ancient past. Lighten my darkness. Tiddy pom tiddy pom tiddy pom from up above. The perils and dangers of this night. With his eyes still closed he uncurled his legs and turned over to lie prone upon the bed burying his face in the pillow. That peace which the world cannot give. There was light somewhere, cool precious light, somewhere quite else. The pillow smelt of dust and age and grief. It was an old pillow. It had attended upon life and death and birth and was tired of them all. It had no pillow slip on and it tickled Tallis's nose. Get undressed and turn out the light. Idiotic go sleep like this."
+154,"My <t>brain</t> hurt like a <m>warehouse</m>, it had no room to spare;  I had to cram so many <m>things</m> to store everything in there.",brain,<memory/idea>,warehouse,things,1,"Bowie, David",https://metaphors.iath.virginia.edu/metaphors/25104,metaphors of mind,"I heard telephones, opera house, favourite melodies.
+I saw boys, toys electric irons and T.V.'s.
+My brain hurt like a warehouse, it had no room to spare;
+I had to cram so many things to store everything in there.
+And all the fat-skinny people, and all the tall-short people,
+And all the nobody people, and all the somebody people,
+I never thought I'd need so many people."
+155,"<t>Mysteries</t> are the <m>food</m> of the <t>mind</t>, and all the fundamental mysteries are necessary to sanity.",mind,mystery,<body>,food,1,"Richards, I.A.",https://metaphors.iath.virginia.edu/metaphors/25102,metaphors of mind,"I'm an inventor,"" he said in Cambridge, Mass., referring to his tricks for teaching. ""And I'm a philosopher. At Cambridge University studied what we called mental and moral sciences. That made one familiar with the incomprehensible. Mysteries are the food of the mind, and all the fundamental mysteries are necessary to sanity. In asylums you meet people who have the answers; sane people never have the answers."
+156,"In the preceding months he had prepared himself with meticulous care, filling his <t>mind</t> with distilled <t>knowledge</t>, drop by drop, until, on the eve of the first paper (Old English Set Texts) it was almost brimming over.",mind,knowledge,<container>,<liquid>,2,"Lodge, David",https://metaphors.iath.virginia.edu/metaphors/19827,metaphors of mind,"Philip Swallow had been made and unmade by the system in precisely this way. He liked examinations, always did well in them. Finals had been, in many ways, the supreme moment of his life. He frequently dreamed that he was taking the examinations again, and these were happy dreams. Awake, he could without difficulty remember the questions he had elected to answer on every paper that hot, distant June. In the preceding months he had prepared himself with meticulous care, filling his mind with distilled knowledge, drop by drop, until, on the eve of the first paper (Old English Set Texts) it was almost brimming over. Each morning for the next ten days he bore his precious vessel to the examination halls and poured a measured quantity of the contents on to the pages of ruled quarto. Day by day the level fell, until on the tenth day the vessel was empty, the cup was drained, the cupboard was bare. In the years that followed he set about replenishing his mind, but it was never quite the same. The sense of purpose was lacking--there was no great Reckoning against which he could hoard his knowledge, so that it tended to leak away as fast as he acquired it."
+157,<t>Marsall McLuhan's ideas</t> are <m>Turkish baths</m> of the <t>mind</t>.,mind,Marsall McLuhan's ideas,<body>,Turkish baths,1,"Bell, Daniel",https://metaphors.iath.virginia.edu/metaphors/24852,metaphors of mind,"And finally a hedonistic age had its own appropriate prophet--Marshall McLuhan. A hedonistic age, defined by the fact that knowledge becomes coded in messages organized as formulas, slogans, and binary distinctions. By grasping the code, a person feels comfortable in understanding the complex worlds about him. McLuhan is a writer who not only has defined the hedonistic age in terms of such coding devices, but also has topped the trick by exemplifying in his own style the device of coding that age's own thoughts in a set of formulas appropriate to the time. The idea that the medium is the message (so that ideas are secondary or do not count); that some media are ""hot,"" like radio (it excludes people), while others are ""cool,"" like television (it requires involvement to complete the participation); that print culture is linear, while visual culture is simultaneous--all these distinctions are are not meant to be used analytically, or tested by some empirical means; they are litanies to assuage a person’s anxieties and enhance his sense of well-being within the new modes of communication. They are Turkish baths of the mind. All in all, Marshall McLuhan was an advertising man’s dream, in more ways than one."
+158,"The picture which holds traditional philosophy captive is that of the <t>mind</t> as a great <m>mirror</m>, containing various <t>representations</t>--some accurate, some not--and capable of being studied by pure, non-empirical methods.",mind,representations,miror,<reflections>,1," Rorty, Richard",https://metaphors.iath.virginia.edu/metaphors/16894,metaphors of mind,"It is pictures rather than propositions, metaphors rather than statements, which determine most of our philosophical convictions. The picture which holds traditional philosophy captive is that of the mind as a great mirror, containing various representations--some accurate, some not--and capable of being studied by pure, non-empirical methods. Without the notion of the mind as mirror, the notion of knowledge as accuracy of representation would not have suggested itself. Without this latter notion, the strategy common to Descartes and Kant--getting more accurate representations by inspecting, repairing, and polishing the mirror, so to speak--would not have made sense. Without this strategy in mind, recent claims that philosophy could consist of 'conceptual analysis' or 'phenomenological analysis' or 'explication of meanings' or examination of the 'logic of our language' or of 'the structure of the constituting activity of consciousness' would not have made sense."
+159,"<t>Language</t> is the <m>express image and picture</m> of <t>human thoughts</t>; and, from the picture, we may often draw very certain conclusions with regard to the original.",language,human thoughts,express image and picture,<physical object or being>,1,"— Reid, Thomas (1710-1796)
+",https://metaphors.iath.virginia.edu/metaphors/19614,metaphors of mind,"There are other opinions that appear to be universal, from what is common in the structure of all languages, ancient and modern, polished and barbarous. Language is the express image and picture of human thoughts; and, from the picture, we may often draw very certain conclusions with regard to the original. We find in all languages the same parts of speech, nouns substantive and adjective, verbs active and passive, varied according to the tenses of past, present, and future; we find adverbs, prepositions, and conjunctions. There are general rules of syntax common to all languages. This uniformity in the structure of language, shows a certain degree of uniformity in those notions upon which the structure of language is grounded."
+160,<t>Thoughts</t> in my <t>head</t> just come and go and change shape like the <m>clouds</m>.,thoughts,head,clouds,<sky>,1,"— Levy, Andrea (b. 1956)",https://metaphors.iath.virginia.edu/metaphors/17995,metaphors of mind,"When I was young my mum used to complain that I spent too much time daydreaming. That was because I liked to stare at the sky. She thought that while I was dreaming I could be doing something useful as well, like knitting. Now that I am a writer, I have the privilege of daydreaming as part of my job. And I still love to gaze at the sky. The view from my workroom in my North London house has a lot of sky, and I couldn’t work without it. There are never any structured thoughts in my head when I look up. They just come and go and change shape like the clouds."
+161,"Those final <t>sounds</t>, however, are nothing like the <m>wind</m> moving through the vacancy of a <t>mind</t>.",sounds,mind,wind,<empty location>,1,"— Rankine, Claudia (b. 1963)",https://metaphors.iath.virginia.edu/metaphors/18331,metaphors of mind,"He waits for his father's death. His father has been taken off the ventilator and clearly will not be able to breathe for himself much longer. Earlier in the day the nurse mentioned something about an electroencephalogram (EEG), which measures brain waves in the cerebral hemispheres, the parts of the brain that deal with speech and memory. But his brain stem is damaged; it seems now the test will not be necessary. The son expects an almost silent, hollow gasp to come from the old man's open mouth. Those final sounds, however, are nothing like the wind moving through the vacancy of a mind. The release is jerky and convulsive. There is never the rasp of the choke the son expects, though one meaning of worry is to be choked on, to choke on."
+162,"The <t>drug</t> hit him like an <m>express train</m>, a <m>white-hot column of light</m> mounting his spine from the region of his prostate,",drug,<effect><sensations>,express train,white-hot column of light,1,"— Gibson, William (b. 1948)",https://metaphors.iath.virginia.edu/metaphors/24616,metaphors of mind,"The drug hit him like an express train, a white-hot column of light mounting his spine from the region of his prostate, illuminating the sutures of his skull with x-rays of short-circuited sexual energy. His teeth sang in their individual sockets like tuning forks, each one pitch-perfect and clear as ethanol. His bones, beneath the hazy envelope of flesh, were chromed and polished, the joints lubricated with a film of silicone. Sandstorms raged across the scoured floor of his skull, generating waves of high thin static that broke behind his eyes, spheres of purest crystal, expanding..."
+163,"The only palliative is to keep the clean <m>sea breeze</m> of the <t>centuries</t> blowing through our <t>minds</t>, and this can be done only be reading old books.",centuries,mind,sea breeze,<location>,1,"— Lewis, C. S. (1898-1963)",https://metaphors.iath.virginia.edu/metaphors/20215,metaphors of mind,"Every age has its own outlook. It is especially good at seeing certain truths and specially liable to make certain mistakes. We all, therefore, need the books that will correct the characteristic mistakes of our own period. And that means the old books. All contemporary writers share to some extent the contemporary outlook--even those, like myself, who seem opposed to it. Nothing strikes me more when I read the controversies of past ages than the fact that both sides were usually assuming without question a good deal which we should now absolutely deny. They thought that they were as completely opposed as two sides could be, but in fact they were all the time secretly united--united with each other and against earlier and later ages--by a great mass of common assumptions. We may be sure that the characteristic blindness of the twentieth century--the blindness about which posterity will ask, ""But how could they have thought that?""--lies where we have never suspected it, and concerns something about which there is untroubled agreement between Hitler and President Roosevelt or between Mr. H. G. Wells and Karl Barth. None of us can fully escape this blindness, but we shall certainly increase it, and weaken our guard against it, if we read only modern books. Where they are true they will give us truths which we half knew already. Where they are false they will aggravate the error with which we are already dangerously ill. The only palliative is to keep the clean sea breeze of the centuries blowing through our minds, and this can be done only be reading old books. Not, of course, that there is any magic about the past. People were no cleverer then than they are now; they made as many mistakes as we. But not the same mistakes. They will not flatter us in the errors we are already committing; and their own errors, being now open and palpable, will not endanger us. Two heads are better than one, not because either is infallible, but because they are unlikely to go wrong in the same direction. To be sure, the books of the future would be just as good a corrective as the books of the past, but unfortunately we cannot get at them."
+164,"As a <m>snowflake-crystal</m> caught in the warm hand is no longer a crystal but a <m>drop</m>, so, instead of catching the <t>feeling of relation moving to its term</t>, we find we have caught <t>some substantive thing, usually the last word we were pronouncing</t>, statically taken, and with its function, tendency and particular meaning in the sentence quite evaporated.",feeling of relation moving to its term,"some substantive thing, usually the last word we were pronouncing",snowflake-crystal,drop,1,"— James, William (1842-1910)",https://metaphors.iath.virginia.edu/metaphors/17710,metaphors of mind,"Now the first difficulty of introspection is that of seeing the transitive parts for what they really are. If they are but flights to a conclusion, stopping them to look at them before the conclusion is reached is really annihilating them. Whilst if we wait till the conclusion be reached, it so exceeds them in vigour and stability that it quite eclipses and swallows them up in its glare. Let anyone try to cut a thought across in the middle and get a look at its section, and he will see how difficult the introspective observation of the transitive tracts is. The rush of the thought is so headlong that it almost always brings us up at the conclusion before we can arrest it. Or if our purpose is nimble enough and we do arrest it, it ceases forthwith to be itself. As a snowflake-crystal caught in the warm hand is no longer a crystal but a drop, so, instead of catching the feeling of relation moving to its term, we find we have caught some substantive thing, usually the last word we were pronouncing, statically taken, and with its function, tendency and particular meaning in the sentence quite evaporated. The attempt at introspective analysis in these cases is in fact like seizing a spinning top to catch its motion, or trying to turn up the gas quickly enough to see how the darkness looks. And the challenge to produce these psychoses, which is sure to be thrown by doubting psychologists at anyone who contends for their existence, is as unfair as Zeno's treatment of the advocates of motion, when, asking them to point out in what place an arrow is when it moves, he argues the falsity of their thesis from their inability to make to so preposterous a question an immediate reply."
+165,"Silently we went round and round, 
+And through each hollow <t>mind</t>
+The <t>Memory of dreadful things</t>
+Rushed like a dreadful <m>wind</m>,
+And Horror stalked before each man,
+And Terror crept behind.",memory of dreadful things,mind,wind,<location>,1,"Wilde, Oscar Fingal O'Flahertie Wills (1854-1900)",https://metaphors.iath.virginia.edu/metaphors/17586,metaphors of mind,"Silently we went round and round,
+And through each hollow mind
+The Memory of dreadful things
+Rushed like a dreadful wind,
+And Horror stalked before each man,
+And Terror crept behind."
+166,"<t>Religion, ethics, metaphysics</t> – these are merely the 'spiritual' and 'inner' festivals of human anguish, ways of channelling the <m>black waters</m> of <t>anxiety</t> – and towards what abyss?","Religion, ethics, metaphysics",anxiety,<channel>,black waters,1,"— Lefebvre, Henri (1901-1991)",https://metaphors.iath.virginia.edu/metaphors/25311,metaphors of mind,"And in life itself, in everyday life, ancient gestures, rituals as old as time itself, continue unchanged – except for the fact that this life has been stripped of its beauty. Only the dust of words remains, dead gestures. Because rituals and feelings, prayers and magic spells, blessings, curses, have been detached from life, they have become abstract and 'inner', to use the terminology of self-justification. Convictions have become weaker, sacrifices shallower, less intense. People cope – badly – with a smaller outlay. Pleasures have become weaker and weaker. The only thing that has not diminished is the old disquiet, that feeling of weakness, that foreboding. But what was formerly a sense of disquiet has become worry, anguish. Religion, ethics, metaphysics – these are merely the 'spiritual' and 'inner' festivals of human anguish, ways of channelling the black waters of anxiety – and towards what abyss?"
+167,The <t>Great Depression</t> had entered our <t>souls</t> like <m>fog</m>.,the Great Depression,soul,fog,<location>,1,"— Justice, Donald (1925-2004)",https://metaphors.iath.virginia.edu/metaphors/18026,metaphors of mind,"We gathered on porches; the moon rose; we were poor.
+And time went by, drawn by slow horses.
+Somewhere beyond our windows shone the world.
+The Great Depression had entered our souls like fog.
+
+And time went by, drawn by slow horses.
+We did not ourselves know what the end was.
+The Great Depression had entered our souls like fog.
+We had our flaws, perhaps a few private virtues."
+168,"Deep in the night, those <t>warnings</t> scuttle around my <t>mind</t> like <m>rats</m>.",warnings,mind,rats,<location>,1,"— Kennedy, Pagan (b. 1963)",https://metaphors.iath.virginia.edu/metaphors/24968,metaphors of mind,"Though one in 10 American adults suffer from chronic insomnia, we have yet to answer the most fundamental questions about the affliction. Scientists are still arguing about the mechanisms of sleep and the reasons it fails in seemingly healthy people. There are few -- if any -- reliable treatments for insomnia. At the same time, medical journals warn that bad sleep can fester into diseases like cancer and diabetes. Deep in the night, those warnings scuttle around my mind like rats."
+169,"The body [...] activates the senses, setting them to the frequencies at which the signals of new dangers can be received. Those signals appear as noise to the previous -- pre-war -- <t>mind</t>, as a breakdown in communication. The new mind, which the body floods with adrenaline, begins -- like a <m>rabbit</m> in a forest of <m>foxes</m> -- to decode all the signals, even if it's not capable of fitting them into any narrative.",mind,<dangerous things>,rabbit,foxes,1,"Hemon, Aleksandr (b. 1964)",https://metaphors.iath.virginia.edu/metaphors/25010,metaphors of mind,"But the body knows the score, recognizes the crisis before the mind. It not only gets the steel ball rolling onto the intestines, but also activates the senses, setting them to the frequencies at which the signals of new dangers can be received. Those signals appear as noise to the previous -- pre-war -- mind, as a breakdown in communication. The new mind, which the body floods with adrenaline, begins -- like a rabbit in a forest of foxes -- to decode all the signals, even if it's not capable of fitting them into any narrative. The unified, ontologically comfortable mind splits: On the one hand, the pre-war mind refuses the possibility of catastrophe; on the other, the war mind perceives everything as the signal that the end of the world is nigh. I trust my fears while struggling to ignore them. We become of two minds, which cannot agree on what is real. The world looks strange and unreliable, fragile and dangerous. It is itself and not itself. I am myself and someone else."
+170,We've got this perverse situation in which the vast analytic powers of the entire world are being spent trying to understand a guy whose <t>thoughts</t> are often just <m>six fireflie beeping</m> randomly in a <m>jar</m>.,thoughts,<mind>,six fireflies beeping randomly,jar,1,"Brooks, David (b. 1961)",https://metaphors.iath.virginia.edu/metaphors/25072,metaphors of mind,"But Trump's statements don't necessarily come from anywhere, lead anywhere or have a permanent reality beyond his wish to be liked at any given instant.
+
+We've got this perverse situation in which the vast analytic powers of the entire world are being spent trying to understand a guy whose thoughts are often just six fireflies beeping randomly in a jar.
+
+""We badly want to understand Trump, to grasp him,"" David Roberts writes in Vox. ""It might give us some sense of control, or at least an ability to predict what he will do next. But what if there's nothing to understand? What if there is no there there?""
+
+And out of that void comes a carelessness that quite possibly betrayed an intelligence source, and endangered a country."
+171,"But if I can identify the <m>lizard</m> of <t>envy</t> crawling around in my <t>psyche</t>, I can usually tamp down the ire.",envy,psyche,lizard,<location>,1,"Marino, Gordon",https://metaphors.iath.virginia.edu/metaphors/25196,metaphors of mind,"For instance, I often find a reason to become angry with people I am envious of. But if I can identify the lizard of envy crawling around in my psyche, I can usually tamp down the ire. That same awareness can also help mitigate moral judgments. Recognizing the envy when my sixtysomething friend boasted that he had recently completed a marathon, I was able to restrain myself from giving rope to the indignant thought, ""Instead of running miles every day, why don't you spend some time tutoring disadvantaged kids!"""
+172,"<t>Memory</t>, a <m>jar</m> of <m>flies</m>. Spin off the lid.",memory,<recollections>,jar,flies,1,"Seibles, Tim (b. 1955)",https://metaphors.iath.virginia.edu/metaphors/25149,metaphors of mind,"What skinny faith you have — 
+and such big teeth: all
+
+the better. I mean to step out
+of  history     for just a minute,
+
+to feel my blood float
+
+above the say-so. Memory,
+a jar of flies. Spin off the lid.
+
+I forget what you know. What
+
+did you ever know?"
+173,"Open our <t>skulls</t>, look in with a penlight, and you'll find an <m>odd museum</m> of <t>ideas</t>: sentences of history or mathematics remembered from school textbooks (no boy remembers his schooling like one who was taken out of school, let me assure you), sentences about politics read in a newspaper while wait...",skulls,ideas,odd museum,<items>,1,"Adiga, Aravind (b. 1974)",https://metaphors.iath.virginia.edu/metaphors/17196,metaphors of mind,"Me, and thousands of others in this country like me, are half-baked, because we were never allowed to complete our schooling. Open our skulls, look in with a penlight, and you'll find an odd museum of ideas: sentences of history or mathematics remembered from school textbooks (no boy remembers his schooling like one who was taken out of school, let me assure you), sentences about politics read in a newspaper while waiting for someone to come to an office, triangles and pyramids seen on the torn pages of the old geometry textbooks which every tea shop in this country uses to wrap its snacks in, bits of All India Radio news bulletins, things that drop into your mind, like lizards from the ceiling, in the half hour before falling asleep--all these ideas, half-formed and half-digested and half correct, mix up with other half-cooked ideas in your head, and I guess these half-formed ideas bugger one another and make more half-formed ideas, and this is what you act on and live with."
+174,"Like an <m>oyster</m>
+That cloisters <m>a spoil of pearls</m>, 
+Untouched— 
+The <t>heart</t> that’s had 
+Enough
+Stays shut.",heart,<emotions>,oyster,a spoil of pearls,1,"Essbaum, Jill Alexander",https://metaphors.iath.virginia.edu/metaphors/17554,metaphors of mind,"Like an oyster
+That cloisters a spoil of pearls,
+Untouched—
+
+
+The heart that’s had
+Enough
+Stays shut."
+175,"A <t>soul</t> was like a <m>worm</m> in an <m>apple</m>, my mother told me.",soul,<body>,worm,apple,1,"Offill, Jenny (b. 1968)",https://metaphors.iath.virginia.edu/metaphors/24728,metaphors of mind,"A soul was like a worm in an apple, my mother told me. Sometimes you went your whole life without knowing you had one and then suddenly it appeared. In Africa, the soul has the same shape as the body but cannot be seen. At night, it travels through the world while a person dreams. But it returns to the body the moment a sleeping person is touched."
+176,"In the years that followed he set about replenishing his <t>mind</t>, but it was never quite the same. The sense of purpose was lacking--there was no great Reckoning against which he could hoard his <t>knowledge</t>, so that it tended to leak away as fast as he acquired it.",mind,knowledge,<liquid>,<container>,2,"Lodge, David",https://metaphors.iath.virginia.edu/metaphors/19829,metaphors of mind,"Philip Swallow had been made and unmade by the system in precisely this way. He liked examinations, always did well in them. Finals had been, in many ways, the supreme moment of his life. He frequently dreamed that he was taking the examinations again, and these were happy dreams. Awake, he could without difficulty remember the questions he had elected to answer on every paper that hot, distant June. In the preceding months he had prepared himself with meticulous care, filling his mind with distilled knowledge, drop by drop, until, on the eve of the first paper (Old English Set Texts) it was almost brimming over. Each morning for the next ten days he bore his precious vessel to the examination halls and poured a measured quantity of the contents on to the pages of ruled quarto. Day by day the level fell, until on the tenth day the vessel was empty, the cup was drained, the cupboard was bare. In the years that followed he set about replenishing his mind, but it was never quite the same. The sense of purpose was lacking--there was no great Reckoning against which he could hoard his knowledge, so that it tended to leak away as fast as he acquired it."
+177,"The <t>mind</t> may be pregnant ""with some <t>new theme</t>"". ",mind,new theme,<woman>,<baby>,2,"— Cowper, William (1731-1800)",https://metaphors.iath.virginia.edu/metaphors/15017,metaphors of mind,"Just when our drawing-rooms begin to blaze
+With lights by clear reflection multiplied
+From many a mirror, in which he of Gath,
+Goliath, might have seen his giant bulk
+Whole without stooping, towering crest and all,
+My pleasures too begin. But me perhaps
+The glowing hearth may satisfy awhile
+With faint illumination that uplifts
+The shadow to the ceiling, there by fits
+Dancing uncouthly to the quivering flame.
+Not undelightful is an hour to me
+So spent in parlour twilight; such a gloom
+Suits well the thoughtful or unthinking mind,
+The mind contemplative, with some new theme
+Pregnant, or indisposed alike to all.
+Laugh ye, who boast your more mercurial powers,
+That never feel a stupor, know no pause
+Nor need one. I am conscious, and confess
+Fearless, a soul that does not always think.
+Me oft has fancy ludicrous and wild
+Sooth'd with a waking dream of houses, towers,
+Trees, churches, and strange visages express'd
+In the red cinders, while with poring eye
+I gazed, myself creating what I saw.
+Nor less amused have I quiescent watch'd
+The sooty films that play upon the bars
+Pendulous, and foreboding in the view
+Of superstition prophesying still
+Though still deceived, some stranger's near approach.
+'Tis thus the understanding takes repose
+In indolent vacuity of thought,
+And sleeps and is refresh'd. Meanwhile the face
+Conceals the mood lethargic with a mask
+Of deep deliberation, as the man
+Were task'd to his full strength, absorb'd and lost.
+Thus oft reclined at ease, I lose an hour
+At evening, till at length the freezing blast
+That sweeps the bolted shutter, summons home
+The recollected powers, and snapping short
+The glassy threads with which the fancy weaves
+Her brittle toys, restores me to myself.
+How calm is my recess! and how the frost
+Raging abroad, and the rough wind, endear
+The silence and the warmth enjoy'd within!
+I saw the woods and fields at close of day
+A variegated show; the meadows green
+Though faded, and the lands where lately waved
+The golden harvest, of a mellow brown,
+Upturn'd so lately by the forceful share.
+I saw far off the weedy fallows smile
+With verdure not unprofitable, grazed
+By flocks fast feeding, and selecting each
+His favourite herb; while all the leafless groves
+That skirt the horizon wore a sable hue,
+Scarce noticed in the kindred dusk of eve.
+To-morrow brings a change, a total change!
+Which even now, though silently perform'd
+And slowly, and by most unfelt, the face
+Of universal nature undergoes.
+Fast falls a fleecy shower. The downy flakes
+Descending and with never-ceasing lapse
+Softly alighting upon all below,
+Assimilate all objects. Earth receives
+Gladly the thickening mantle, and the green
+And tender blade that fear'd the chilling blast,
+Escapes unhurt beneath so warm a veil."
+178,"When the <t>mind</t> is in a calm, our <t>advice</t> may sail over it with ease; but in a raging tempest the best admonitions run upon a desperate rock.",mind,advice,<sea>,<boat>,2,"— Tubbe, Henry (1618-1655)",https://metaphors.iath.virginia.edu/metaphors/9384,metaphors of mind,"That mans wisdom is meere folly that reproves another in his wrath. Good counsel is then unseasonable and therefore unreasonable; but when his anger is past he will be more apt to understand his fault, and more ready to mend it. When the minde is in a calme, our advice may saile over it with ease; but in a raging tempest the best admonitions run upon a desperate rock, and their labour is but cast away. Phisicians are not wont to administer in the height of a Feavor: nor will any wise man apply physick to the soul in a distempered fit of madnesse."
+179,"He finds no <m>Tempest</m> in his <t>Mind</t>,  
+Fears no Billow, feels no Wind: 
+All is serene, and quiet there.",mind,<anger>,<location>,tempest,2,"— Flatman, Thomas (1635-1688)",https://metaphors.iath.virginia.edu/metaphors/9843,metaphors of mind,"Peaceful is he, and most secure,
+Whose heart, and actions all are pure;
+How smooth and pleasant is his way.
+Whilst Life's Meander slides away
+If a fierce Thunderbolt do flie,
+This Man can unconcerned lie;
+Knows 'tis not levell'd at his head,
+So neither noise, nor flash can dread:
+Though a swift Whirlwind tear in sunder
+Heav'n above him, or Earth under;
+Though the Rocks on Heaps do tumble,
+Or the World to Ashes crumble,
+Though the stupendious Mountains from on high
+Drop down, and in their humble Vallies lie;
+Should the unruly Ocean roar,
+And dash its Foam against the Shore;
+He finds no Tempest in his Mind,
+Fears no Billow, feels no Wind:
+All is serene, and quiet there,
+There's not one blast of troubled Air,
+Old Stars may fall, or new ones blaze,
+Yet none of these his Soul amaze;
+Such is the man can smile at irksome death,
+And with an easie sigh give up his breath."
+180,"For a long time I locked the <t>memories</t> away in a <m>room</m> in my mind. I would sometimes touch the door, to make sure it was secure.",memories,<mind subspace>,<objects><living things>,room,2,"— Armeni, Damon T.",https://metaphors.iath.virginia.edu/metaphors/23847,metaphors of mind,"Though it's hard for me to admit it, I've suffered from PTSD for several years. For a long time I locked the memories away in a room in my mind. I would sometimes touch the door, to make sure it was secure. It was always cold and whenever I opened it to toss in another memory, a biting wind would come roaring out. A wind that stank of diesel fuel, spent gunpowder, sand and death and carried with it my screams of pain, the voices of my soldiers struggling to save my life, and the beeps of a hospital.
+
+I'd wrestle the door shut, lock it, have a strong drink (or five) and get on with my life. I had a wife to love, a family to raise, and soldiers to lead -- I didn't have time to deal with it. Then I got cocky. I thought I had it under control. In 2011, I went to graduate school. I had, for the first time, no pending deployment and no soldiers to train. I quit checking on the door, and so I missed it when the locks began weakening.
+
+After graduation, I requested an opportunity to deploy again and was told I'd be going to Saudi Arabia. I thought, ""perfect -- not a combat deployment, but a chance to get back into the swing of things.""
+
+But about two months before it was time to go, the door in my mind broke down, and PTSD came for me. It was a beautiful day. I was heading to meet my wife and kids for a handoff. On I-95, just before Fredericksburg, Va., the acrid smell of rocket propellant filled my nose. I could hear my soldiers telling me I'd be O.K., could feel my stomach tearing open again. I couldn't feel my feet, my hands were numb -- I couldn't breathe. Drenched in sweat, I managed to get my car off the road and call for help. First my wife, then an ambulance."
+181,Oh what a <m>Tempest</m> have I in my <t>Stomach</t>?,stomach,<disorder>,<location>,tempest,2,"D'Urfey, Thomas (1653?-1723)",https://metaphors.iath.virginia.edu/metaphors/9849,metaphors of mind,"FRUG.
+Oh what a Tempest have I in my Stomach?
+My Guts are grumbling a kind of Tune,
+
+Like the Base Pipes of an Organ: I am starv'd into a Substance so thin, that my Body is transparent; you may see my heart, and the appurtenances, hang up here in its mortal Closet, as easily as a Candle in a Lanthorn."
+182,"why, why, why did I have to spend hours doing this? In the red glare of the digital clock, my <t>brain</t> rattled its <m>cage</m>. I prepared for a wave of lunacy.",brain,<constrained activity>,<animal>,cage,2,"Kennedy, Pagan (b. 1963)",https://metaphors.iath.virginia.edu/metaphors/24969,metaphors of mind,"One night, I was in the Qs, trying to figure out what to add to quesadillas, queer theory and Questlove. Then, suddenly, the game infuriated me -- why, why, why did I have to spend hours doing this? In the red glare of the digital clock, my brain rattled its cage. I prepared for a wave of lunacy.
+Categories"
+183,"But I didn't want to linger, nor could I perhaps, for the <t>sensation</t> lasted only a few moments, then my <t>brain</t> sank its claws into it and I went back to the kitchen where everything was as I had left it, except for the color of the drinks, which were shiny and full of small, grayish bubbles now.",brain,sensation,<bird of prey>,<prey>,2,"Knausgaard, Karl Ove (b. 1968)",https://metaphors.iath.virginia.edu/metaphors/24786,metaphors of mind,"I put it on the table and left the room to go downstairs to the toilet. The darkened rooms lay around me, large and empty. But with the flame of alcohol burning in my brain I took no notice of the atmosphere that otherwise would have affected me, for although I wasn't outright happy, I was elated, exhilarated, motivated by the desire to continue this, which not even a direct reminder of Dad's death could shake, it was just a pale shadow, present but of no consequence, because life had taken its place, all the images, voices, and actions that drinking alcohol conjured up at the drop of a hat and gave me the illusion that I was somewhere surrounded by a lot of people and merriment. I knew it wasn't true, but that was how it felt, and it was feeling that was leading me, also when I stepped on the stained wall-to-wall carpeting on the ground floor, illuminated by the dim light seeping in through the front door pane, and entered the bathroom that hissed and whistled as it had done for at least thirty years. On my way out I heard their voices above and hurried upstairs. In the living room, I took a few steps inside to see the place where he had died while I was in a different, a more carefree frame of mind. I was given a sudden sensation of who he had been. I didn't see him, it wasn't like that, but I could sense him, the whole of his being, the way he had been during his final days in these rooms. It was uncanny. But I didn't want to linger, nor could I perhaps, for the sensation lasted only a few moments, then my brain sank its claws into it and I went back to the kitchen where everything was as I had left it, except for the color of the drinks, which were shiny and full of small, grayish bubbles now."
+184,"The <t>swing of the pendulum</t> has finally shattered the <t>myth</t>, like a <m>bull</m> through a <m>cobweb</m>.",swing of the pendulum,myth,bull,cobweb,0,Anon.,,other,
+185,"If <t>wits</t> were <m>pins</m>, the <t>man</t> would be a veritable <m>hedgehog</m>.",wits,man,pins,hedgehog,0,"Fly by Night, Frances Hardinge",,other,
+186,<t>You</t> are the <m>thunder</m> and <t>I</t> am the <m>lightning</m>.,you,I,thunder,lightning,0,"Selena Gomez, Antonina Armato, Tim James, Devrim Karaoglu",https://prowritingaid.com/metaphor-examples,other,
+187,<t>You</t> are the <m>sunshine</m> of my <t>life</t>.,you,my life,sunshine,<space>,1,Stevie Wonder,https://prowritingaid.com/metaphor-examples,other,
+188,But we refuse to believe that the <m>bank</m> of <t>justice</t> is bankrupt. We refuse to believe that there are insufficient <m>funds</m> in the great vaults of <t>opportunity</t> of this nation.,justice,opportunity,bank,funds,0,Dr. Martin Luther King Jr.,https://prowritingaid.com/metaphor-examples,other,
+189,<t>Monetarism</t> is to <m>economics</m> what <m>christian science</m> is to <m>medicine</m>.,monetarism,economics,christian science,medecine,0,,,other,
+190,In a <t>shuttered room</t> <t>I</t> roast like a <m>pumpkin</m> in a <m>serra</m>,I,shuttered room,pumpkin,serra,0,Dylan Thomas,,other,
+191,Twenty years of romance make a <t>woman</t> look like a <m>ruin</m>; but twenty years of marriage make her something like a <m>public building</m>.,woman after twenty years of romance,woman after twenty years of marriage,ruin,public building,0,Oscar Wilde,,other,
+192,The <t>Marxist analysis</t> has got nothing to do with what happened in <t>Stalin's Russia</t>; it's like blaming <m>Jesus Christ</m> for the <m>Inquisition in Spain</m>.,marxist analysis,Stalin's Russia,Jesus Christ,Inquisition in Spain,0,Tony Benn,,other,
+193,"Her <t>sharp mind</t>, sawing raggedly through <t>illusion</t> like a <m>bread knife</m> through a <m>hunk of frozen fish</m>.",sharp mind,illusion,bread knife,a hunk of frozen fish,0,Fay Weldon,,other,
+194,The <t>great nations</t> have always acted like <m>gangsters</m> and the <t>small nations</t> like <m>prostitutes</m>.,great nations,small nations,gangsters,prostitutes,0,Stanley Kubrick,,other,
+195,A <t>woman</t> needs a <t>man</t> like a <m>goldfish</m> needs a <m>motorbike</m>.,woman,man,goldfish,motorbike,0,Anon.,,other,
+196,The <t>sun</t> was a <m>toddler</m> insistently refusing to go to <m>bed</m>: It was past eight-thirty and still light.,sun,<location>,toddler,bed,1,John Green,,other,
+197,"All <t>religions, arts and sciences</t> are <m>branches</m> of the same <m>tree</m>.","religions, arts sciences",<knowledge>,branches,tree,1,Albert Einstein,https://prowritingaid.com/metaphor-examples,other,
+198,"The <t>photographer</t> is like the <m>cod</m>, which produces a million <m>eggs</m> in order that one may reach maturity.",photographer,<photos>,cod,eggs,1,,,other,
+199,"The <t>vice-presidency</t> is sort of like the last <m>cookie</m> on the <m>plate</m>. Everybody insists he won't take it, but somebody always does.",vice-presidency,<opportunity>,cookie,plate,1,Bill Vanghan,,other,
+200,Publishing a <t>volume of verse</t> is like dropping a <m>rose petal</m> down the <m>Grand Canyon</m> and waiting for the echo.,volume of verse,<public space>,a rose petal,the Grand Canyon,1,Don Marquis,,other,
+201,His <t>ears</t> make him look like a <m>taxicab</m> with both <m>doors open</m>.,<man>/<head>,ears,taxicab,open doors,1,Howard Hughes of Clark Gable,,other,
+202,His <t>ears</t> are like the <m>handles</m> of a <m>Greek amphora</m>.,<man>/<head>,ears,Greek amphora,handles,1,P. G. Wodehouse,,other,
+203,"<t>Monarchy</t> is like a <m>splendid ship with all sails set</m>; it moves majestically on, then it hits a <m>rock</m> and sink forever.",monarchy,<revolution>,splendid ship with all sails set,rock,1,Fisher Ames,,other,

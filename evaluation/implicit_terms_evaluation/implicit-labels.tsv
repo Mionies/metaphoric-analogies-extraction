@@ -1,0 +1,728 @@
+model	id	Zara	generated arg
+gpt4	21	2	parents
+gpt4	21	2	parents
+gpt4	21	2	parents
+mixtral22	21	2	parents
+mixtral22	21	2	parents
+mixtral22	21	2	parents
+gpt4	59	2	body
+gpt4	59	2	physical realm
+gpt4	59	2	body
+gpt4	59	2	physical attraction
+gpt4	59	2	physical attraction
+gpt4	59	2	Physical intimacy
+mixtral22	59	1	love
+mixtral22	59	0	intercourse
+mixtral22	59	0	reproduction
+mixtral22	59	0	reproduction
+mixtral22	59	0	reproduction
+mixtral22	59	0	reproduction
+gpt4	60	2	debt
+gpt4	60	2	loan due
+gpt4	60	2	debt
+gpt4	60	2	loan due
+gpt4	60	2	debt
+gpt4	60	2	loan
+gpt4	60	2	debt
+gpt4	60	2	debt
+gpt4	60	2	debt
+mixtral22	60	0	payment
+mixtral22	60	2	debt
+mixtral22	60	0	payment
+mixtral22	60	1	payment before due date
+mixtral22	60	2	debt
+mixtral22	60	0	payment
+mixtral22	60	0	money
+mixtral22	60	0	payment
+mixtral22	60	0	payment
+gpt4	61	2	travel
+gpt4	61	2	travel experience
+gpt4	61	2	those who do not travel
+gpt4	61	2	experiences
+gpt4	61	2	travel
+gpt4	61	2	travel/experience
+gpt4	61	2	those who do not travel
+gpt4	61	2	those who do not travel
+mixtral22	61	2	travel
+mixtral22	61	2	travel
+mixtral22	61	2	travel
+mixtral22	61	2	travel
+mixtral22	61	2	travel
+mixtral22	61	2	travel
+mixtral22	61	2	travel
+mixtral22	61	2	travel
+gpt4	62	2	impending changes
+gpt4	62	2	imminent changes
+gpt4	62	2	Happenings/Changes
+gpt4	62	2	impending change
+gpt4	62	2	impending changes
+mixtral22	62	0	radar
+mixtral22	62	0	warning system
+mixtral22	62	1	new events
+mixtral22	62	0	reliable system
+gpt4	63	0	freedom
+gpt4	63	0	freedom
+gpt4	63	0	freedom
+mixtral22	63	0	freedom
+gpt4	64	2	lions
+gpt4	64	2	lions
+gpt4	64	2	lions
+gpt4	64	2	lions
+gpt4	64	2	lions
+gpt4	64	2	lions
+gpt4	64	2	lions
+mixtral22	64	2	lions
+mixtral22	64	2	lions
+mixtral22	64	2	lions
+mixtral22	64	2	lions
+mixtral22	64	2	lions
+mixtral22	64	2	lions
+mixtral22	64	2	lions
+mixtral22	64	2	lions
+gpt4	65	1	behavior
+gpt4	65	2	reviews or judgments
+gpt4	65	2	messages/reviews
+gpt4	65	1	judgment
+gpt4	65	2	reviews
+gpt4	65	1	criticism or judgement
+gpt4	65	1	opinions
+gpt4	65	1	opinions/judgments
+mixtral22	65	0	pigs
+mixtral22	65	0	food
+mixtral22	65	0	people who appreciate good things
+gpt4	67	2	mailbox
+gpt4	67	2	mailbox
+gpt4	67	2	mailbox
+gpt4	67	2	mailbox
+mixtral22	67	0	unwanted communication
+mixtral22	67	0	unwanted mail
+mixtral22	67	2	mailbox
+gpt4	68	2	Stability
+gpt4	68	2	stability
+gpt4	68	2	stability
+gpt4	68	2	stability
+gpt4	68	2	stability
+gpt4	68	0	inconsistency
+gpt4	68	0	Desire
+gpt4	68	2	value or popularity
+gpt4	68	2	public opinion
+mixtral22	68	0	fickle
+mixtral22	68	2	people
+mixtral22	68	0	plate
+mixtral22	68	0	mind
+gpt4	70	0	pressure
+gpt4	70	0	pressure system
+gpt4	70	0	pressure
+gpt4	70	0	pressure
+gpt4	70	0	pressure
+gpt4	70	0	pressure
+gpt4	70	0	pressure system
+gpt4	70	0	pressure system
+gpt4	70	0	pressure
+mixtral22	70	0	pressure
+mixtral22	70	0	pressure
+mixtral22	70	0	pressure
+mixtral22	70	0	pressure
+mixtral22	70	0	pressure
+mixtral22	70	0	pressure relief
+mixtral22	70	0	pressure
+mixtral22	70	0	pressure
+mixtral22	70	0	pressure
+gpt4	71	1	friendship
+gpt4	71	1	friendship
+gpt4	71	1	friendship
+gpt4	71	2	stronger friendship
+gpt4	71	2	stronger friendship
+gpt4	71	1	friendship
+gpt4	71	1	friendship
+mixtral22	71	1	friendship
+mixtral22	71	1	friendship
+mixtral22	71	1	friendship
+mixtral22	71	1	friendship
+mixtral22	71	2	stronger friendship
+mixtral22	71	1	friendship
+mixtral22	71	1	friendship
+mixtral22	71	1	friendship
+gpt4	72	0	changing circumstances
+gpt4	72	0	desire to change
+gpt4	72	0	change
+gpt4	72	2	person
+mixtral22	72	0	desire to change
+gpt4	77	2	child
+gpt4	77	0	mother
+gpt4	77	0	mother
+gpt4	77	2	baby
+gpt4	77	2	baby
+gpt4	77	2	child/nourishing
+gpt4	77	2	baby
+gpt4	77	2	baby
+gpt4	77	2	baby
+mixtral22	77	2	baby
+mixtral22	77	2	baby
+mixtral22	77	0	nourishment
+mixtral22	77	2	baby
+mixtral22	77	0	nourishment
+mixtral22	77	2	baby
+mixtral22	77	2	baby
+mixtral22	77	2	baby
+gpt4	79	0	entangle and hold
+gpt4	79	1	entangled beings
+gpt4	79	0	entangle
+gpt4	79	2	entangled insects
+gpt4	79	2	entangled insects
+gpt4	79	2	small insects
+gpt4	79	2	small insects
+gpt4	79	2	insects
+mixtral22	79	0	spiders
+mixtral22	79	0	spiders
+mixtral22	79	0	entangle and hold
+mixtral22	79	0	entangle and hold
+mixtral22	79	0	spiders
+mixtral22	79	0	entangle and hold
+mixtral22	79	0	spiders
+mixtral22	79	0	spiders
+mixtral22	79	0	spiders
+gpt4	80	0	break through them
+gpt4	80	0	break through
+gpt4	80	0	break through
+gpt4	80	2	large insects
+gpt4	80	0	break through
+gpt4	80	0	break through
+gpt4	80	2	big insects
+gpt4	80	2	big insects
+gpt4	80	2	insects
+mixtral22	80	0	spiders
+mixtral22	80	0	fragile
+mixtral22	80	0	easily breakable
+mixtral22	80	0	easily breakable objects
+mixtral22	80	0	easily breakable
+mixtral22	80	0	spiders
+mixtral22	80	0	spiders
+mixtral22	80	0	weak
+gpt4	81	2	small offenders
+gpt4	81	2	small offenders
+gpt4	81	2	small offenses
+gpt4	81	1	small errors
+gpt4	81	0	crimes
+mixtral22	81	0	flies
+mixtral22	81	0	small flies
+mixtral22	81	0	justice
+mixtral22	81	0	justice
+mixtral22	81	0	small flies
+mixtral22	81	0	justice
+gpt4	82	0	control mechanism
+gpt4	82	0	restrictions
+gpt4	82	0	limitations
+gpt4	82	0	break through
+gpt4	82	0	breakthroughs
+gpt4	82	0	society
+gpt4	82	2	stronger forces or criminals
+mixtral22	82	0	protection
+mixtral22	82	0	justice
+mixtral22	82	0	protection
+mixtral22	82	0	justice
+mixtral22	82	0	society
+mixtral22	82	0	justice
+gpt4	83	2	child (implicitly understood as the product of a womb)
+gpt4	83	0	development
+gpt4	83	0	development
+gpt4	83	2	baby
+gpt4	83	2	unborn child
+gpt4	83	2	fetus/child
+gpt4	83	2	baby
+gpt4	83	2	baby
+gpt4	83	2	baby
+mixtral22	83	0	development
+mixtral22	83	0	development
+mixtral22	83	0	development
+mixtral22	83	0	development
+mixtral22	83	0	development
+mixtral22	83	2	child
+mixtral22	83	2	baby
+mixtral22	83	0	mother
+gpt4	84	2	story/content
+gpt4	84	2	contents of the book
+gpt4	84	1	image
+gpt4	84	1	images
+gpt4	84	2	story/content
+gpt4	84	2	words/content
+gpt4	84	0	beliefs
+gpt4	84	2	pages/content
+mixtral22	84	2	content
+mixtral22	84	2	content
+mixtral22	84	2	content
+mixtral22	84	1	illustrations
+mixtral22	84	0	beliefs
+mixtral22	84	1	illustration
+mixtral22	84	2	content
+mixtral22	84	0	man's belief
+mixtral22	84	1	words
+gpt4	85	2	celebration
+gpt4	85	2	celebration
+gpt4	85	2	celebration
+gpt4	85	0	bottle
+mixtral22	85	0	drink
+mixtral22	85	2	celebration
+mixtral22	85	0	drink
+mixtral22	85	0	drink
+mixtral22	85	0	drink
+mixtral22	85	0	drink
+mixtral22	85	0	drink
+mixtral22	85	2	celebration
+mixtral22	85	0	drink
+gpt4	86	0	banana
+gpt4	86	0	banana
+gpt4	86	0	banana
+gpt4	86	0	banana
+gpt4	86	0	banana
+gpt4	86	2	hazard
+gpt4	86	0	banana
+gpt4	86	0	fruit
+gpt4	86	0	fruit
+mixtral22	86	0	slippery surface
+mixtral22	86	0	slippery object
+mixtral22	86	0	slippery
+mixtral22	86	0	slippery object
+mixtral22	86	0	slippery object
+mixtral22	86	0	slippery object
+mixtral22	86	0	slippery surface
+mixtral22	86	0	slippery surface
+mixtral22	86	0	slippery surface
+gpt4	87	0	rivals
+gpt4	87	2	retail market
+gpt4	87	0	rivals
+gpt4	87	2	stores
+mixtral22	87	0	market
+mixtral22	87	0	store
+mixtral22	87	0	supermarket
+mixtral22	87	0	store
+mixtral22	87	2	shopping experience
+mixtral22	87	0	superstore
+mixtral22	87	0	market
+mixtral22	87	2	stores
+mixtral22	87	0	shoppers
+gpt4	88	0	repair
+gpt4	88	0	repair
+gpt4	88	2	objects
+gpt4	88	2	things
+mixtral22	88	0	repair
+mixtral22	88	0	repair
+mixtral22	88	0	repair
+mixtral22	88	0	repair
+mixtral22	88	0	repair
+mixtral22	88	0	repair
+mixtral22	88	2	broken things
+mixtral22	88	2	things
+mixtral22	88	0	repair
+gpt4	89	1	stuffed animal
+gpt4	89	2	stuffed object
+gpt4	89	2	stuffed figure
+gpt4	89	2	body
+gpt4	89	2	body
+gpt4	89	2	body
+mixtral22	89	2	stuffed object
+mixtral22	89	1	stuffed animal
+mixtral22	89	2	stuffed object
+mixtral22	89	1	stuffed animal
+mixtral22	89	1	stuffed animal
+mixtral22	89	1	stuffed animal
+gpt4	90	2	reality
+gpt4	90	2	reality
+gpt4	90	2	reality
+gpt4	90	2	reality
+gpt4	90	2	reality
+mixtral22	90	2	reality
+mixtral22	90	2	reality
+mixtral22	90	2	reality
+mixtral22	90	2	reality
+mixtral22	90	2	reality
+mixtral22	90	2	reality
+gpt4	91	0	mount
+gpt4	91	0	mount
+gpt4	91	0	mount
+gpt4	91	0	height
+gpt4	91	0	higher level
+gpt4	91	0	mount
+gpt4	91	0	steps
+gpt4	91	0	mount
+gpt4	91	0	height
+mixtral22	91	0	mount
+mixtral22	91	0	mount
+mixtral22	91	0	mounting
+mixtral22	91	0	mounting
+mixtral22	91	0	mounting
+mixtral22	91	0	mounting
+mixtral22	91	0	mount
+mixtral22	91	0	mount
+mixtral22	91	0	mount
+gpt4	92	2	nature
+gpt4	92	0	morning
+gpt4	92	0	morning emotion
+gpt4	92	0	morning
+mixtral22	92	0	tear
+mixtral22	92	0	water
+mixtral22	92	0	tear
+gpt4	93	0	protection
+gpt4	93	0	protection
+gpt4	93	0	instability
+gpt4	93	0	protection
+gpt4	93	0	poor protection
+gpt4	93	0	decisions
+gpt4	93	0	problem
+gpt4	93	0	situational problem
+mixtral22	93	0	roof
+mixtral22	93	0	protection
+mixtral22	93	0	good shelter
+gpt4	94	2	content of the vase
+gpt4	94	0	follow
+gpt4	94	0	follow
+gpt4	94	0	flowers
+gpt4	94	0	flowers
+gpt4	94	2	contents/follows
+gpt4	94	0	flower
+gpt4	94	0	flower
+gpt4	94	0	flowers
+mixtral22	94	0	shape
+mixtral22	94	0	shape
+mixtral22	94	0	shape
+mixtral22	94	1	water
+mixtral22	94	0	shape
+mixtral22	94	0	shape
+mixtral22	94	1	water
+mixtral22	94	1	water
+mixtral22	94	0	shape
+gpt4	95	0	flavor
+gpt4	95	0	flavor
+gpt4	95	0	flavor
+gpt4	95	0	flavor
+gpt4	95	0	flavor
+gpt4	95	0	flavor
+gpt4	95	0	flavor
+gpt4	95	0	flavor
+gpt4	95	0	flavor
+mixtral22	95	0	flavor
+mixtral22	95	0	flavor
+mixtral22	95	0	flavor
+mixtral22	95	0	flavor
+mixtral22	95	0	flavor
+mixtral22	95	0	flavor
+mixtral22	95	0	flavor
+gpt4	96	2	literature
+gpt4	96	2	expression
+gpt4	96	2	art
+gpt4	96	1	inspiration
+gpt4	96	2	creation
+gpt4	96	2	literature/art
+gpt4	96	2	inspiration/creativity/emotion (based on the metaphorical representation of poetry)
+gpt4	96	2	emotions/ideas
+gpt4	96	2	words
+mixtral22	96	2	words
+mixtral22	96	0	reproduction
+mixtral22	96	2	expression
+mixtral22	96	2	expression
+mixtral22	96	2	human creation
+mixtral22	96	2	expression
+mixtral22	96	2	words
+mixtral22	96	2	language
+mixtral22	96	2	words
+gpt4	97	2	body
+gpt4	97	2	body
+gpt4	97	2	body
+gpt4	97	2	living organism
+gpt4	97	2	body
+gpt4	97	2	body
+gpt4	97	2	body
+gpt4	97	2	body
+mixtral22	97	2	breathing
+mixtral22	97	2	body
+mixtral22	97	2	life
+mixtral22	97	2	life
+mixtral22	97	2	life
+mixtral22	97	2	life-giving substance
+mixtral22	97	2	body
+mixtral22	97	2	body
+mixtral22	97	2	body
+gpt4	98	0	sea
+gpt4	98	0	sea
+gpt4	98	0	Sea
+gpt4	98	0	sea
+gpt4	98	0	sea
+mixtral22	98	0	sea
+mixtral22	98	0	sea
+mixtral22	98	0	jutting out
+mixtral22	98	0	land
+mixtral22	98	0	sea
+mixtral22	98	0	land
+gpt4	99	2	daily actions
+gpt4	99	0	unbreakability
+gpt4	99	2	daily actions
+gpt4	99	2	daily actions
+gpt4	99	2	daily actions
+gpt4	99	0	unbreakable routine
+gpt4	99	0	day
+gpt4	99	0	day
+gpt4	99	0	day
+mixtral22	99	0	breaking
+mixtral22	99	0	unbreakable
+mixtral22	99	0	we
+gpt4	100	2	valuables
+gpt4	100	2	possession
+gpt4	100	2	item being stolen
+gpt4	100	2	stolen item
+gpt4	100	2	possession
+gpt4	100	2	stolen goods
+gpt4	100	2	possession
+gpt4	100	2	possessions
+gpt4	100	2	object
+mixtral22	100	2	stolen goods
+mixtral22	100	2	possessions
+mixtral22	100	2	stolen goods
+mixtral22	100	2	stolen goods
+mixtral22	100	2	stolen goods
+mixtral22	100	0	stealing
+mixtral22	100	2	possessions
+mixtral22	100	2	property
+mixtral22	100	2	possessions
+gpt4	101	2	child
+gpt4	101	2	child
+gpt4	101	2	child
+gpt4	101	2	child
+gpt4	101	2	child
+gpt4	101	0	birth of a child
+gpt4	101	2	child
+gpt4	101	2	child
+gpt4	101	2	child
+mixtral22	101	2	child
+mixtral22	101	2	child
+mixtral22	101	2	child
+mixtral22	101	2	child
+mixtral22	101	2	child
+mixtral22	101	2	child
+mixtral22	101	2	child
+mixtral22	101	2	child
+mixtral22	101	2	child
+gpt4	102	0	compressed size
+gpt4	102	0	compressed size
+gpt4	102	0	compressed matter
+gpt4	102	0	compressed size
+gpt4	102	0	compressed size
+gpt4	102	0	compressed object
+gpt4	102	0	compressed matter
+mixtral22	102	0	compression
+mixtral22	102	0	compression
+mixtral22	102	0	compressed size
+mixtral22	102	0	compression
+mixtral22	102	0	compressed information
+mixtral22	102	0	compressed information
+mixtral22	102	0	anonymous
+mixtral22	102	0	compressed
+mixtral22	102	0	size
+gpt4	103	2	adults
+gpt4	103	2	adults
+gpt4	103	2	adults
+gpt4	103	2	adults
+gpt4	103	2	adults
+gpt4	103	2	adults
+gpt4	103	2	adults
+gpt4	103	2	adults
+gpt4	103	2	adults
+mixtral22	103	2	adults
+mixtral22	103	2	adults
+mixtral22	103	2	adults
+mixtral22	103	2	adults
+mixtral22	103	2	adults
+mixtral22	103	0	fancy food
+mixtral22	103	2	adults
+mixtral22	103	2	adults
+mixtral22	103	0	food
+gpt4	104	2	bloody wound
+gpt4	104	2	wound
+gpt4	104	2	bloody circumstance
+gpt4	104	2	bloody injury
+gpt4	104	2	bloody wound
+gpt4	104	2	wound
+gpt4	104	2	bloody wound
+gpt4	104	0	body
+gpt4	104	2	wound
+mixtral22	104	2	wound
+mixtral22	104	2	wound
+mixtral22	104	0	protection
+mixtral22	104	0	protection
+mixtral22	104	2	wounded body
+mixtral22	104	0	protection
+mixtral22	104	2	wound
+mixtral22	104	0	body
+mixtral22	104	0	protection
+gpt4	105	0	bottom
+gpt4	105	0	bottom (communication / expression)
+gpt4	105	0	bottom
+gpt4	105	1	communication
+gpt4	105	2	speaker
+gpt4	105	2	speakers
+gpt4	105	1	communication
+mixtral22	105	2	heard
+mixtral22	105	0	voice
+mixtral22	105	0	voice
+mixtral22	105	0	silence
+mixtral22	105	0	expression
+mixtral22	105	0	voice
+mixtral22	105	2	people
+mixtral22	105	0	voice
+gpt4	106	0	keyhole
+gpt4	106	0	keyhole
+gpt4	106	0	keyhole
+gpt4	106	0	keyhole
+gpt4	106	0	keyhole
+gpt4	106	0	keyhole
+gpt4	106	0	keyhole
+gpt4	106	0	keyhole
+mixtral22	106	0	keyhole
+mixtral22	106	0	keyhole
+mixtral22	106	0	keyhole
+mixtral22	106	0	keyhole
+mixtral22	106	0	keyhole
+mixtral22	106	0	keyhole
+mixtral22	106	0	keyhole
+mixtral22	106	0	keyhole
+mixtral22	106	0	keyhole
+gpt4	107	2	body
+gpt4	107	2	body
+gpt4	107	2	body
+gpt4	107	0	virtue
+gpt4	107	2	virtuous person
+gpt4	107	0	innocence
+gpt4	107	2	body
+gpt4	107	2	body
+gpt4	107	2	body
+mixtral22	107	1	sexuality
+mixtral22	107	1	sexuality
+mixtral22	107	1	sexuality
+mixtral22	107	0	purity
+mixtral22	107	1	sexuality
+mixtral22	107	2	body
+mixtral22	107	2	body
+mixtral22	107	1	sex
+gpt4	108	0	plant growth
+gpt4	108	2	plant
+gpt4	108	2	plant
+gpt4	108	2	plant
+gpt4	108	2	growth/plant
+gpt4	108	0	plant growth
+gpt4	108	2	plant
+gpt4	108	2	plant
+gpt4	108	2	plant
+mixtral22	108	2	plant
+mixtral22	108	2	plant
+mixtral22	108	2	plant
+mixtral22	108	2	plant
+mixtral22	108	2	plant
+mixtral22	108	2	plant
+mixtral22	108	2	plant
+mixtral22	108	2	plant
+mixtral22	108	2	plant
+gpt4	109	2	physical appearance
+gpt4	109	2	body
+gpt4	109	2	physical appearance
+gpt4	109	2	physical appearance
+gpt4	109	2	physical appearance
+gpt4	109	2	face/body
+gpt4	109	2	body
+gpt4	109	2	body
+mixtral22	109	2	body
+mixtral22	109	2	body
+mixtral22	109	2	Physical appearance
+mixtral22	109	2	appearance
+mixtral22	109	2	body
+mixtral22	109	2	Physical appearance
+mixtral22	109	2	body
+mixtral22	109	2	body
+mixtral22	109	2	body
+gpt4	110	2	full expression or sentence
+gpt4	110	2	communication or expression
+gpt4	110	2	meaning/idea
+mixtral22	110	0	bud
+gpt4	111	0	motion
+gpt4	111	0	progress
+gpt4	111	0	moving
+mixtral22	111	0	moving
+mixtral22	111	0	moving
+mixtral22	111	0	moving
+gpt4	112	1	utilization of potential
+gpt4	112	2	unused potential
+gpt4	112	2	unused potential
+gpt4	112	2	unused potential
+gpt4	112	2	unused potential
+gpt4	112	2	potential
+gpt4	112	2	unused potential
+gpt4	112	2	abilities
+mixtral22	112	0	gears
+mixtral22	112	2	unused potential
+mixtral22	112	2	unused potential
+mixtral22	112	0	unused gears
+mixtral22	112	2	unused potential
+mixtral22	112	2	unused potential
+mixtral22	112	0	most of us
+mixtral22	112	0	people
+gpt4	113	2	building
+gpt4	113	2	building
+gpt4	113	2	building
+gpt4	113	1	slight structure
+gpt4	113	0	stability
+gpt4	113	1	slight structure
+gpt4	113	2	building
+gpt4	113	2	building
+gpt4	113	2	building
+mixtral22	113	2	building
+mixtral22	113	2	building
+mixtral22	113	2	solid structure
+mixtral22	113	2	building
+mixtral22	113	2	building
+gpt4	114	2	battle
+gpt4	114	2	war
+gpt4	114	2	destructive impact
+gpt4	114	0	warfare communication
+gpt4	114	2	war
+gpt4	114	2	war
+gpt4	114	2	war
+mixtral22	114	2	war
+mixtral22	114	2	war
+mixtral22	114	0	weapon
+mixtral22	114	0	conveyance of message
+mixtral22	114	2	warfare
+mixtral22	114	0	powerful weapon
+mixtral22	114	2	war
+mixtral22	114	2	war
+mixtral22	114	0	look
+gpt4	115	2	skin/body
+gpt4	115	2	skin condition
+gpt4	115	2	skin condition
+gpt4	115	2	skin
+gpt4	115	2	skin condition
+gpt4	115	0	control
+gpt4	115	2	skin
+gpt4	115	2	skin
+gpt4	115	2	skin
+mixtral22	115	2	skin condition
+mixtral22	115	2	skin
+mixtral22	115	2	skin condition
+mixtral22	115	2	skin condition
+mixtral22	115	2	unsightly condition
+mixtral22	115	2	skin condition
+mixtral22	115	2	skin
+mixtral22	115	2	body
+mixtral22	115	2	skin
+mixtral22	116		offspring
+mixtral22	116		offspring of the mind
+gpt4	117	0	impression
+gpt4	117	0	impression
+gpt4	117	0	impression
+gpt4	117	0	impression
+gpt4	117	0	impression
+gpt4	117	0	impression
+gpt4	117	0	impression
+mixtral22	117	0	impression
+mixtral22	117	0	lasting impression
+mixtral22	117	0	impression
+mixtral22	117	0	impression
+mixtral22	117	0	impression
+mixtral22	117	0	impression
